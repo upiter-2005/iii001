@@ -17,7 +17,15 @@
     "description": "",
     "parent": 0,
     "count": 57,
-    "image": [],
+    "image": {
+      "id": 10749,
+      "src": "https://muzeconom.com.ua/wp-content/uploads/2025/09/43464569237410.webp",
+      "thumbnail": "https://muzeconom.com.ua/wp-content/uploads/2025/09/43464569237410-450x450.webp",
+      "srcset": "https://muzeconom.com.ua/wp-content/uploads/2025/09/43464569237410.webp 920w, https://muzeconom.com.ua/wp-content/uploads/2025/09/43464569237410-450x450.webp 450w, https://muzeconom.com.ua/wp-content/uploads/2025/09/43464569237410-300x300.webp 300w, https://muzeconom.com.ua/wp-content/uploads/2025/09/43464569237410-768x768.webp 768w",
+      "sizes": "(max-width: 920px) 100vw, 920px",
+      "name": "43464569237410",
+      "alt": ""
+    },
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/dj-oborudovanie/"
   },
@@ -126,7 +134,7 @@
     "slug": "aksesuary-klavishni",
     "description": "",
     "parent": 223,
-    "count": 32,
+    "count": 56,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/klavishnye-instrumenty/aksesuary-klavishni/"
@@ -247,8 +255,16 @@
     "slug": "gitary-i-oborudovanie",
     "description": "",
     "parent": 0,
-    "count": 727,
-    "image": [],
+    "count": 1204,
+    "image": {
+      "id": 22577,
+      "src": "https://muzeconom.com.ua/wp-content/uploads/2026/09/384-0205-721_Product20Photo_D-120CE20Natural_Front20Angle.646607969fd4a.jpg",
+      "thumbnail": "https://muzeconom.com.ua/wp-content/uploads/2026/09/384-0205-721_Product20Photo_D-120CE20Natural_Front20Angle.646607969fd4a-450x338.jpg",
+      "srcset": "https://muzeconom.com.ua/wp-content/uploads/2026/09/384-0205-721_Product20Photo_D-120CE20Natural_Front20Angle.646607969fd4a.jpg 800w, https://muzeconom.com.ua/wp-content/uploads/2026/09/384-0205-721_Product20Photo_D-120CE20Natural_Front20Angle.646607969fd4a-300x225.jpg 300w, https://muzeconom.com.ua/wp-content/uploads/2026/09/384-0205-721_Product20Photo_D-120CE20Natural_Front20Angle.646607969fd4a-768x576.jpg 768w, https://muzeconom.com.ua/wp-content/uploads/2026/09/384-0205-721_Product20Photo_D-120CE20Natural_Front20Angle.646607969fd4a-450x338.jpg 450w",
+      "sizes": "(max-width: 800px) 100vw, 800px",
+      "name": "384-0205-721_Product20Photo_D-120CE20Natural_Front20Angle.646607969fd4a.jpg",
+      "alt": ""
+    },
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/gitary-i-oborudovanie/"
   },
@@ -291,7 +307,7 @@
     "slug": "elektroakustychni",
     "description": "",
     "parent": 222,
-    "count": 40,
+    "count": 55,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/gitary-i-oborudovanie/elektroakustychni/"
@@ -302,7 +318,7 @@
     "slug": "elektrogitary",
     "description": "",
     "parent": 222,
-    "count": 178,
+    "count": 640,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/gitary-i-oborudovanie/elektrogitary/"
@@ -376,8 +392,16 @@
     "slug": "klavishnye-instrumenty",
     "description": "",
     "parent": 0,
-    "count": 315,
-    "image": [],
+    "count": 339,
+    "image": {
+      "id": 18406,
+      "src": "https://muzeconom.com.ua/wp-content/uploads/2026/09/CLP-835B_a_0001_189f4e639c6cf443e3cd72e04d40fd33.66e1970fd18d1.jpg",
+      "thumbnail": "https://muzeconom.com.ua/wp-content/uploads/2026/09/CLP-835B_a_0001_189f4e639c6cf443e3cd72e04d40fd33.66e1970fd18d1-450x450.jpg",
+      "srcset": "https://muzeconom.com.ua/wp-content/uploads/2026/09/CLP-835B_a_0001_189f4e639c6cf443e3cd72e04d40fd33.66e1970fd18d1.jpg 2000w, https://muzeconom.com.ua/wp-content/uploads/2026/09/CLP-835B_a_0001_189f4e639c6cf443e3cd72e04d40fd33.66e1970fd18d1-300x300.jpg 300w, https://muzeconom.com.ua/wp-content/uploads/2026/09/CLP-835B_a_0001_189f4e639c6cf443e3cd72e04d40fd33.66e1970fd18d1-1000x1000.jpg 1000w, https://muzeconom.com.ua/wp-content/uploads/2026/09/CLP-835B_a_0001_189f4e639c6cf443e3cd72e04d40fd33.66e1970fd18d1-768x768.jpg 768w, https://muzeconom.com.ua/wp-content/uploads/2026/09/CLP-835B_a_0001_189f4e639c6cf443e3cd72e04d40fd33.66e1970fd18d1-1536x1536.jpg 1536w, https://muzeconom.com.ua/wp-content/uploads/2026/09/CLP-835B_a_0001_189f4e639c6cf443e3cd72e04d40fd33.66e1970fd18d1-450x450.jpg 450w",
+      "sizes": "(max-width: 2000px) 100vw, 2000px",
+      "name": "CLP-835B_a_0001_189f4e639c6cf443e3cd72e04d40fd33.66e1970fd18d1.jpg",
+      "alt": ""
+    },
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/klavishnye-instrumenty/"
   },
@@ -531,6 +555,17 @@
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/akustychni-systemy/pasyvni/"
+  },
+  {
+    "id": 358,
+    "name": "Педалі",
+    "slug": "pedali",
+    "description": "",
+    "parent": 350,
+    "count": 14,
+    "image": null,
+    "review_count": 0,
+    "permalink": "https://muzeconom.com.ua/product-category/klavishnye-instrumenty/aksesuary-klavishni/pedali/"
   },
   {
     "id": 296,
@@ -736,7 +771,7 @@
     "slug": "stijky-dlya-klavishnyh-instrumentiv",
     "description": "",
     "parent": 350,
-    "count": 11,
+    "count": 21,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/klavishnye-instrumenty/aksesuary-klavishni/stijky-dlya-klavishnyh-instrumentiv/"
@@ -844,7 +879,15 @@
     "description": "",
     "parent": 0,
     "count": 26,
-    "image": [],
+    "image": {
+      "id": 12562,
+      "src": "https://muzeconom.com.ua/wp-content/uploads/2026/09/32726524338071.jpg",
+      "thumbnail": "https://muzeconom.com.ua/wp-content/uploads/2026/09/32726524338071-450x339.jpg",
+      "srcset": "https://muzeconom.com.ua/wp-content/uploads/2026/09/32726524338071.jpg 788w, https://muzeconom.com.ua/wp-content/uploads/2026/09/32726524338071-300x226.jpg 300w, https://muzeconom.com.ua/wp-content/uploads/2026/09/32726524338071-768x579.jpg 768w, https://muzeconom.com.ua/wp-content/uploads/2026/09/32726524338071-450x339.jpg 450w",
+      "sizes": "(max-width: 788px) 100vw, 788px",
+      "name": "32726524338071.jpg",
+      "alt": ""
+    },
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/udarnye-instrumenty/"
   },
@@ -869,5 +912,16 @@
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/klavishnye-instrumenty/tsifrovye-pianino/"
+  },
+  {
+    "id": 360,
+    "name": "Чохли та кейси для клавішних інструментів",
+    "slug": "chohly-ta-kejsy-dlya-klavishnyh-instrumentiv",
+    "description": "",
+    "parent": 350,
+    "count": 0,
+    "image": null,
+    "review_count": 0,
+    "permalink": "https://muzeconom.com.ua/product-category/klavishnye-instrumenty/aksesuary-klavishni/chohly-ta-kejsy-dlya-klavishnyh-instrumentiv/"
   }
 ]
