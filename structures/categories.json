@@ -989,5 +989,29 @@
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/gitary-i-oborudovanie/aksessuary/chohly-kejsy/"
+  },
+  {
+    "id": 379,
+    "name": "Бездротові навушники",
+    "slug": "bezdrotovi-navushnyky",
+    "description": "",
+    "parent": 246,
+    "count": 0
+  },
+  {
+    "id": 380,
+    "name": "HI-FI навушники",
+    "slug": "hi-fi-navushnyky",
+    "description": "",
+    "parent": 246,
+    "count": 0
+  },
+  {
+    "id": 381,
+    "name": "Аксесуари для навушників",
+    "slug": "aksesuary-dlya-navushnykiv",
+    "description": "",
+    "parent": 246,
+    "count": 0
   }
 ]
