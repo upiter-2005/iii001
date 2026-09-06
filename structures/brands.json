@@ -125,7 +125,7 @@
     "slug": "beyerdynamic",
     "description": "",
     "parent": 0,
-    "count": 0
+    "count": 49
   },
   {
     "id": 234,
@@ -392,6 +392,14 @@
     "count": 10
   },
   {
+    "id": 382,
+    "name": "Nord",
+    "slug": "nord",
+    "description": "",
+    "parent": 0,
+    "count": 0
+  },
+  {
     "id": 339,
     "name": "Numark",
     "slug": "numark",
@@ -589,6 +597,6 @@
     "slug": "yamaha",
     "description": "",
     "parent": 0,
-    "count": 548
+    "count": 551
   }
 ]
