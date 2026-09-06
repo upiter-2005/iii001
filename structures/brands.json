@@ -520,6 +520,14 @@
     "count": 23
   },
   {
+    "id": 377,
+    "name": "TAYLOR",
+    "slug": "taylor",
+    "description": "",
+    "parent": 0,
+    "count": 7
+  },
+  {
     "id": 369,
     "name": "TC-Helicon",
     "slug": "tc-helicon",
