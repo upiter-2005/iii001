@@ -32,6 +32,14 @@
     "count": 22
   },
   {
+    "id": 373,
+    "name": "ALLEN&amp;HEATH",
+    "slug": "allen-amp-heath",
+    "description": "",
+    "parent": 0,
+    "count": 8
+  },
+  {
     "id": 262,
     "name": "AlphaTheta",
     "slug": "alphatheta",
@@ -45,7 +53,15 @@
     "slug": "alto",
     "description": "",
     "parent": 0,
-    "count": 16
+    "count": 22
+  },
+  {
+    "id": 367,
+    "name": "Alto Professional",
+    "slug": "alto-professional",
+    "description": "",
+    "parent": 0,
+    "count": 4
   },
   {
     "id": 332,
@@ -69,7 +85,7 @@
     "slug": "arctic",
     "description": "",
     "parent": 0,
-    "count": 10
+    "count": 12
   },
   {
     "id": 242,
@@ -88,12 +104,20 @@
     "count": 9
   },
   {
+    "id": 365,
+    "name": "Audix",
+    "slug": "audix",
+    "description": "",
+    "parent": 0,
+    "count": 7
+  },
+  {
     "id": 346,
     "name": "Behringer",
     "slug": "behringer",
     "description": "",
     "parent": 0,
-    "count": 1
+    "count": 12
   },
   {
     "id": 234,
@@ -237,7 +261,7 @@
     "slug": "hl-audio",
     "description": "",
     "parent": 0,
-    "count": 11
+    "count": 24
   },
   {
     "id": 334,
@@ -253,7 +277,7 @@
     "slug": "ik-multimedia",
     "description": "",
     "parent": 0,
-    "count": 0
+    "count": 21
   },
   {
     "id": 277,
@@ -293,7 +317,7 @@
     "slug": "line-6",
     "description": "",
     "parent": 0,
-    "count": 12
+    "count": 17
   },
   {
     "id": 355,
@@ -309,7 +333,7 @@
     "slug": "m-audio",
     "description": "",
     "parent": 0,
-    "count": 3
+    "count": 10
   },
   {
     "id": 298,
@@ -349,7 +373,7 @@
     "slug": "mooer",
     "description": "",
     "parent": 0,
-    "count": 53
+    "count": 54
   },
   {
     "id": 261,
@@ -424,12 +448,28 @@
     "count": 21
   },
   {
+    "id": 366,
+    "name": "Samson",
+    "slug": "samson",
+    "description": "",
+    "parent": 0,
+    "count": 15
+  },
+  {
     "id": 315,
     "name": "Shure",
     "slug": "shure",
     "description": "",
     "parent": 0,
     "count": 71
+  },
+  {
+    "id": 375,
+    "name": "Sigma",
+    "slug": "sigma",
+    "description": "",
+    "parent": 0,
+    "count": 34
   },
   {
     "id": 321,
@@ -445,7 +485,7 @@
     "slug": "soundking",
     "description": "",
     "parent": 0,
-    "count": 17
+    "count": 18
   },
   {
     "id": 233,
@@ -480,6 +520,14 @@
     "count": 23
   },
   {
+    "id": 369,
+    "name": "TC-Helicon",
+    "slug": "tc-helicon",
+    "description": "",
+    "parent": 0,
+    "count": 5
+  },
+  {
     "id": 305,
     "name": "Technics",
     "slug": "technics",
@@ -512,11 +560,19 @@
     "count": 7
   },
   {
+    "id": 364,
+    "name": "Xvive",
+    "slug": "xvive",
+    "description": "",
+    "parent": 0,
+    "count": 14
+  },
+  {
     "id": 227,
     "name": "YAMAHA",
     "slug": "yamaha",
     "description": "",
     "parent": 0,
-    "count": 423
+    "count": 535
   }
 ]

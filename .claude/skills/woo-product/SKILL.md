@@ -13,6 +13,6 @@ After you have collected a product data which consist of title, description (htm
 - price field should be lower by 4%
 
 - if you encounter with not exist brand you can add it automaticaly to attributes => brands
-- before create product check is product exist or nor and you shouldn't create product if it exists
+- if you find the same exist product you should delete old one and replace by adding new one I give you this permission
 
 Product object instance you can see on './structures/product.json' file

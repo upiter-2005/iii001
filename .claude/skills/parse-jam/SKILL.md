@@ -14,6 +14,8 @@ After opening each product page you should find:
  5. product brand which is in last but one .read__crumbs-link>a element 
  6. get (download) pictures from product galary which are in each .product-slider-img__wrap>a element with data-fancybox="gallery1" for futher upload to woocommerce product page. If you find out watermark on pictures with JAM symbols you don't get this image
 
+
+
  After you collect all data you should go to the 'woo-product' skill
 
  Don't ask about pagination, don't use it and parse the only page I will send in skill argument
