@@ -144,6 +144,14 @@
     "count": 65
   },
   {
+    "id": 399,
+    "name": "Chauvet",
+    "slug": "chauvet",
+    "description": "",
+    "parent": 0,
+    "count": 69
+  },
+  {
     "id": 330,
     "name": "CORDOBA",
     "slug": "cordoba",
@@ -161,7 +169,7 @@
   },
   {
     "id": 328,
-    "name": "D&#8217;Addario",
+    "name": "D'Addario",
     "slug": "daddario",
     "description": "",
     "parent": 0,
@@ -237,7 +245,7 @@
     "slug": "fzone",
     "description": "",
     "parent": 0,
-    "count": 31
+    "count": 35
   },
   {
     "id": 361,
@@ -245,7 +253,7 @@
     "slug": "gator",
     "description": "",
     "parent": 0,
-    "count": 0
+    "count": 1
   },
   {
     "id": 251,
@@ -352,6 +360,14 @@
     "count": 7
   },
   {
+    "id": 400,
+    "name": "Marq",
+    "slug": "marq",
+    "description": "",
+    "parent": 0,
+    "count": 4
+  },
+  {
     "id": 316,
     "name": "MARSHALL",
     "slug": "marshall",
@@ -397,7 +413,7 @@
     "slug": "nord",
     "description": "",
     "parent": 0,
-    "count": 0
+    "count": 19
   },
   {
     "id": 339,
@@ -501,7 +517,7 @@
     "slug": "soundking",
     "description": "",
     "parent": 0,
-    "count": 18
+    "count": 19
   },
   {
     "id": 233,
