@@ -493,7 +493,7 @@
     "slug": "samson",
     "description": "",
     "parent": 0,
-    "count": 15
+    "count": 20
   },
   {
     "id": 315,
@@ -525,7 +525,7 @@
     "slug": "soundking",
     "description": "",
     "parent": 0,
-    "count": 47
+    "count": 48
   },
   {
     "id": 233,
@@ -550,6 +550,14 @@
     "description": "",
     "parent": 0,
     "count": 35
+  },
+  {
+    "id": 405,
+    "name": "Switchcraft",
+    "slug": "switchcraft",
+    "description": "",
+    "parent": 0,
+    "count": 3
   },
   {
     "id": 337,
