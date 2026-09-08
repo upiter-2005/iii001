@@ -206,6 +206,17 @@
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/miksherni-pulty/aktyvni-pulty/"
   },
   {
+    "id": 409,
+    "name": "Активні сабвуфери",
+    "slug": "aktyvni-sabvufery",
+    "description": "",
+    "parent": 407,
+    "count": 8,
+    "image": null,
+    "review_count": 0,
+    "permalink": "https://muzeconom.com.ua/product-category/zvuk/sabvufery/aktyvni-sabvufery/"
+  },
+  {
     "id": 231,
     "name": "Акустичні гітари",
     "slug": "akusticheskie",
@@ -502,7 +513,7 @@
     "slug": "zvuk",
     "description": "",
     "parent": 0,
-    "count": 868,
+    "count": 876,
     "image": {
       "id": 22916,
       "src": "https://muzeconom.com.ua/wp-content/uploads/2026/09/BX3_angle_web.jpg.5fd9f0a51793c.jpg",
@@ -741,6 +752,17 @@
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/akustychni-systemy/pasyvni/"
   },
   {
+    "id": 410,
+    "name": "Пасивні сабвуфери",
+    "slug": "pasyvni-sabvufery",
+    "description": "",
+    "parent": 407,
+    "count": 0,
+    "image": null,
+    "review_count": 0,
+    "permalink": "https://muzeconom.com.ua/product-category/zvuk/sabvufery/pasyvni-sabvufery/"
+  },
+  {
     "id": 358,
     "name": "Педалі",
     "slug": "pedali",
@@ -849,6 +871,17 @@
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/klavishnye-instrumenty/sintezatory/rozvazhalni/"
+  },
+  {
+    "id": 407,
+    "name": "Сабвуфери",
+    "slug": "sabvufery",
+    "description": "",
+    "parent": 239,
+    "count": 8,
+    "image": null,
+    "review_count": 0,
+    "permalink": "https://muzeconom.com.ua/product-category/zvuk/sabvufery/"
   },
   {
     "id": 388,
@@ -1124,11 +1157,11 @@
     "name": "Студійні сабвуфери",
     "slug": "studijni-sabvufery",
     "description": "",
-    "parent": 239,
+    "parent": 407,
     "count": 6,
     "image": null,
     "review_count": 0,
-    "permalink": "https://muzeconom.com.ua/product-category/zvuk/studijni-sabvufery/"
+    "permalink": "https://muzeconom.com.ua/product-category/zvuk/sabvufery/studijni-sabvufery/"
   },
   {
     "id": 342,
