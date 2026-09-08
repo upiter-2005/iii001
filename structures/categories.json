@@ -19,11 +19,10 @@
     "count": 57,
     "image": {
       "id": 10749,
-      "date_created": "2025-09-30T16:52:16",
-      "date_created_gmt": "2025-09-30T13:52:16",
-      "date_modified": "2025-09-30T16:52:16",
-      "date_modified_gmt": "2025-09-30T13:52:16",
       "src": "https://muzeconom.com.ua/wp-content/uploads/2025/09/43464569237410.webp",
+      "thumbnail": "https://muzeconom.com.ua/wp-content/uploads/2025/09/43464569237410-450x450.webp",
+      "srcset": "https://muzeconom.com.ua/wp-content/uploads/2025/09/43464569237410.webp 920w, https://muzeconom.com.ua/wp-content/uploads/2025/09/43464569237410-450x450.webp 450w, https://muzeconom.com.ua/wp-content/uploads/2025/09/43464569237410-300x300.webp 300w, https://muzeconom.com.ua/wp-content/uploads/2025/09/43464569237410-768x768.webp 768w",
+      "sizes": "(max-width: 920px) 100vw, 920px",
       "name": "43464569237410",
       "alt": ""
     },
@@ -339,6 +338,17 @@
     "permalink": "https://muzeconom.com.ua/product-category/smychkovi/violoncheli/"
   },
   {
+    "id": 402,
+    "name": "ВЧ драйвери",
+    "slug": "vch-drajvery",
+    "description": "",
+    "parent": 239,
+    "count": 0,
+    "image": null,
+    "review_count": 0,
+    "permalink": "https://muzeconom.com.ua/product-category/zvuk/vch-drajvery/"
+  },
+  {
     "id": 222,
     "name": "Гітари та обладнання",
     "slug": "gitary-i-oborudovanie",
@@ -347,11 +357,10 @@
     "count": 1245,
     "image": {
       "id": 22577,
-      "date_created": "2026-09-04T18:19:04",
-      "date_created_gmt": "2026-09-04T15:19:04",
-      "date_modified": "2026-09-04T18:19:04",
-      "date_modified_gmt": "2026-09-04T15:19:04",
       "src": "https://muzeconom.com.ua/wp-content/uploads/2026/09/384-0205-721_Product20Photo_D-120CE20Natural_Front20Angle.646607969fd4a.jpg",
+      "thumbnail": "https://muzeconom.com.ua/wp-content/uploads/2026/09/384-0205-721_Product20Photo_D-120CE20Natural_Front20Angle.646607969fd4a-450x338.jpg",
+      "srcset": "https://muzeconom.com.ua/wp-content/uploads/2026/09/384-0205-721_Product20Photo_D-120CE20Natural_Front20Angle.646607969fd4a.jpg 800w, https://muzeconom.com.ua/wp-content/uploads/2026/09/384-0205-721_Product20Photo_D-120CE20Natural_Front20Angle.646607969fd4a-300x225.jpg 300w, https://muzeconom.com.ua/wp-content/uploads/2026/09/384-0205-721_Product20Photo_D-120CE20Natural_Front20Angle.646607969fd4a-768x576.jpg 768w, https://muzeconom.com.ua/wp-content/uploads/2026/09/384-0205-721_Product20Photo_D-120CE20Natural_Front20Angle.646607969fd4a-450x338.jpg 450w",
+      "sizes": "(max-width: 800px) 100vw, 800px",
       "name": "384-0205-721_Product20Photo_D-120CE20Natural_Front20Angle.646607969fd4a.jpg",
       "alt": ""
     },
@@ -381,6 +390,17 @@
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/gruvboksy/"
   },
   {
+    "id": 401,
+    "name": "Гучномовці",
+    "slug": "guchnomovtsi",
+    "description": "",
+    "parent": 239,
+    "count": 32,
+    "image": null,
+    "review_count": 0,
+    "permalink": "https://muzeconom.com.ua/product-category/zvuk/guchnomovtsi/"
+  },
+  {
     "id": 392,
     "name": "Дим машини",
     "slug": "dym-mashyny",
@@ -390,6 +410,17 @@
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/svitlo/dym-mashyny/"
+  },
+  {
+    "id": 403,
+    "name": "Директ бокси",
+    "slug": "dyrekt-boksy",
+    "description": "",
+    "parent": 239,
+    "count": 0,
+    "image": null,
+    "review_count": 0,
+    "permalink": "https://muzeconom.com.ua/product-category/zvuk/dyrekt-boksy/"
   },
   {
     "id": 368,
@@ -411,11 +442,10 @@
     "count": 27,
     "image": {
       "id": 9608,
-      "date_created": "2025-09-20T11:19:39",
-      "date_created_gmt": "2025-09-20T08:19:39",
-      "date_modified": "2025-09-20T11:19:39",
-      "date_modified_gmt": "2025-09-20T08:19:39",
       "src": "https://muzeconom.com.ua/wp-content/uploads/2025/09/89959965995236.webp",
+      "thumbnail": "https://muzeconom.com.ua/wp-content/uploads/2025/09/89959965995236-450x150.webp",
+      "srcset": "https://muzeconom.com.ua/wp-content/uploads/2025/09/89959965995236.webp 1600w, https://muzeconom.com.ua/wp-content/uploads/2025/09/89959965995236-450x150.webp 450w, https://muzeconom.com.ua/wp-content/uploads/2025/09/89959965995236-300x100.webp 300w, https://muzeconom.com.ua/wp-content/uploads/2025/09/89959965995236-1000x333.webp 1000w, https://muzeconom.com.ua/wp-content/uploads/2025/09/89959965995236-768x256.webp 768w, https://muzeconom.com.ua/wp-content/uploads/2025/09/89959965995236-1536x512.webp 1536w",
+      "sizes": "(max-width: 1600px) 100vw, 1600px",
       "name": "89959965995236",
       "alt": ""
     },
@@ -472,15 +502,14 @@
     "slug": "zvuk",
     "description": "",
     "parent": 0,
-    "count": 805,
+    "count": 775,
     "image": {
-      "id": 8008,
-      "date_created": "2025-09-01T18:49:10",
-      "date_created_gmt": "2025-09-01T15:49:10",
-      "date_modified": "2025-09-01T18:49:10",
-      "date_modified_gmt": "2025-09-01T15:49:10",
-      "src": "https://muzeconom.com.ua/wp-content/uploads/2025/09/78821910934418.webp",
-      "name": "78821910934418",
+      "id": 22916,
+      "src": "https://muzeconom.com.ua/wp-content/uploads/2026/09/BX3_angle_web.jpg.5fd9f0a51793c.jpg",
+      "thumbnail": "https://muzeconom.com.ua/wp-content/uploads/2026/09/BX3_angle_web.jpg.5fd9f0a51793c-450x281.jpg",
+      "srcset": "https://muzeconom.com.ua/wp-content/uploads/2026/09/BX3_angle_web.jpg.5fd9f0a51793c.jpg 1200w, https://muzeconom.com.ua/wp-content/uploads/2026/09/BX3_angle_web.jpg.5fd9f0a51793c-300x188.jpg 300w, https://muzeconom.com.ua/wp-content/uploads/2026/09/BX3_angle_web.jpg.5fd9f0a51793c-1000x625.jpg 1000w, https://muzeconom.com.ua/wp-content/uploads/2026/09/BX3_angle_web.jpg.5fd9f0a51793c-768x480.jpg 768w, https://muzeconom.com.ua/wp-content/uploads/2026/09/BX3_angle_web.jpg.5fd9f0a51793c-450x281.jpg 450w",
+      "sizes": "(max-width: 1200px) 100vw, 1200px",
+      "name": "BX3_angle_web.jpg.5fd9f0a51793c.jpg",
       "alt": ""
     },
     "review_count": 0,
@@ -488,7 +517,7 @@
   },
   {
     "id": 264,
-    "name": "Інтер'єрні піаніно",
+    "name": "Інтер&#8217;єрні піаніно",
     "slug": "interyerni-pianino",
     "description": "",
     "parent": 224,
@@ -517,11 +546,10 @@
     "count": 387,
     "image": {
       "id": 18406,
-      "date_created": "2026-09-03T10:17:35",
-      "date_created_gmt": "2026-09-03T07:17:35",
-      "date_modified": "2026-09-03T10:17:35",
-      "date_modified_gmt": "2026-09-03T07:17:35",
       "src": "https://muzeconom.com.ua/wp-content/uploads/2026/09/CLP-835B_a_0001_189f4e639c6cf443e3cd72e04d40fd33.66e1970fd18d1.jpg",
+      "thumbnail": "https://muzeconom.com.ua/wp-content/uploads/2026/09/CLP-835B_a_0001_189f4e639c6cf443e3cd72e04d40fd33.66e1970fd18d1-450x450.jpg",
+      "srcset": "https://muzeconom.com.ua/wp-content/uploads/2026/09/CLP-835B_a_0001_189f4e639c6cf443e3cd72e04d40fd33.66e1970fd18d1.jpg 2000w, https://muzeconom.com.ua/wp-content/uploads/2026/09/CLP-835B_a_0001_189f4e639c6cf443e3cd72e04d40fd33.66e1970fd18d1-300x300.jpg 300w, https://muzeconom.com.ua/wp-content/uploads/2026/09/CLP-835B_a_0001_189f4e639c6cf443e3cd72e04d40fd33.66e1970fd18d1-1000x1000.jpg 1000w, https://muzeconom.com.ua/wp-content/uploads/2026/09/CLP-835B_a_0001_189f4e639c6cf443e3cd72e04d40fd33.66e1970fd18d1-768x768.jpg 768w, https://muzeconom.com.ua/wp-content/uploads/2026/09/CLP-835B_a_0001_189f4e639c6cf443e3cd72e04d40fd33.66e1970fd18d1-1536x1536.jpg 1536w, https://muzeconom.com.ua/wp-content/uploads/2026/09/CLP-835B_a_0001_189f4e639c6cf443e3cd72e04d40fd33.66e1970fd18d1-450x450.jpg 450w",
+      "sizes": "(max-width: 2000px) 100vw, 2000px",
       "name": "CLP-835B_a_0001_189f4e639c6cf443e3cd72e04d40fd33.66e1970fd18d1.jpg",
       "alt": ""
     },
@@ -647,11 +675,10 @@
     "count": 153,
     "image": {
       "id": 8279,
-      "date_created": "2025-09-03T11:27:07",
-      "date_created_gmt": "2025-09-03T08:27:07",
-      "date_modified": "2025-09-03T11:27:07",
-      "date_modified_gmt": "2025-09-03T08:27:07",
       "src": "https://muzeconom.com.ua/wp-content/uploads/2025/09/88492448471913.webp",
+      "thumbnail": "https://muzeconom.com.ua/wp-content/uploads/2025/09/88492448471913-450x450.webp",
+      "srcset": "https://muzeconom.com.ua/wp-content/uploads/2025/09/88492448471913.webp 1800w, https://muzeconom.com.ua/wp-content/uploads/2025/09/88492448471913-450x450.webp 450w, https://muzeconom.com.ua/wp-content/uploads/2025/09/88492448471913-300x300.webp 300w, https://muzeconom.com.ua/wp-content/uploads/2025/09/88492448471913-1000x1000.webp 1000w, https://muzeconom.com.ua/wp-content/uploads/2025/09/88492448471913-768x768.webp 768w, https://muzeconom.com.ua/wp-content/uploads/2025/09/88492448471913-1536x1536.webp 1536w",
+      "sizes": "(max-width: 1800px) 100vw, 1800px",
       "name": "88492448471913",
       "alt": ""
     },
@@ -841,16 +868,7 @@
     "description": "",
     "parent": 0,
     "count": 112,
-    "image": {
-      "id": 3319,
-      "date_created": null,
-      "date_created_gmt": null,
-      "date_modified": null,
-      "date_modified_gmt": null,
-      "src": false,
-      "name": "",
-      "alt": ""
-    },
+    "image": [],
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/svitlo/"
   },
@@ -1006,11 +1024,10 @@
     "count": 77,
     "image": {
       "id": 18684,
-      "date_created": "2026-09-03T16:48:03",
-      "date_created_gmt": "2026-09-03T13:48:03",
-      "date_modified": "2026-09-03T16:48:03",
-      "date_modified_gmt": "2026-09-03T13:48:03",
       "src": "https://muzeconom.com.ua/wp-content/uploads/2026/09/11865210_800.611a5be654884.jpg",
+      "thumbnail": "https://muzeconom.com.ua/wp-content/uploads/2026/09/11865210_800.611a5be654884-450x292.jpg",
+      "srcset": "https://muzeconom.com.ua/wp-content/uploads/2026/09/11865210_800.611a5be654884.jpg 800w, https://muzeconom.com.ua/wp-content/uploads/2026/09/11865210_800.611a5be654884-300x195.jpg 300w, https://muzeconom.com.ua/wp-content/uploads/2026/09/11865210_800.611a5be654884-768x498.jpg 768w, https://muzeconom.com.ua/wp-content/uploads/2026/09/11865210_800.611a5be654884-450x292.jpg 450w",
+      "sizes": "(max-width: 800px) 100vw, 800px",
       "name": "11865210_800.611a5be654884.jpg",
       "alt": ""
     },
@@ -1070,11 +1087,10 @@
     "count": 39,
     "image": {
       "id": 8529,
-      "date_created": "2025-09-04T11:11:10",
-      "date_created_gmt": "2025-09-04T08:11:10",
-      "date_modified": "2025-09-04T11:11:10",
-      "date_modified_gmt": "2025-09-04T08:11:10",
       "src": "https://muzeconom.com.ua/wp-content/uploads/2025/09/20231031161426-920x920-2.webp",
+      "thumbnail": "https://muzeconom.com.ua/wp-content/uploads/2025/09/20231031161426-920x920-2-450x450.webp",
+      "srcset": "https://muzeconom.com.ua/wp-content/uploads/2025/09/20231031161426-920x920-2.webp 920w, https://muzeconom.com.ua/wp-content/uploads/2025/09/20231031161426-920x920-2-450x450.webp 450w, https://muzeconom.com.ua/wp-content/uploads/2025/09/20231031161426-920x920-2-300x300.webp 300w, https://muzeconom.com.ua/wp-content/uploads/2025/09/20231031161426-920x920-2-768x768.webp 768w",
+      "sizes": "(max-width: 920px) 100vw, 920px",
       "name": "20231031161426-920&#215;920 (2)",
       "alt": ""
     },
@@ -1156,11 +1172,10 @@
     "count": 46,
     "image": {
       "id": 12285,
-      "date_created": "2026-08-31T14:05:43",
-      "date_created_gmt": "2026-08-31T11:05:43",
-      "date_modified": "2026-08-31T14:05:43",
-      "date_modified_gmt": "2026-08-31T11:05:43",
       "src": "https://muzeconom.com.ua/wp-content/uploads/2026/08/65582171589828.webp",
+      "thumbnail": "https://muzeconom.com.ua/wp-content/uploads/2026/08/65582171589828-450x316.webp",
+      "srcset": "https://muzeconom.com.ua/wp-content/uploads/2026/08/65582171589828.webp 1000w, https://muzeconom.com.ua/wp-content/uploads/2026/08/65582171589828-300x211.webp 300w, https://muzeconom.com.ua/wp-content/uploads/2026/08/65582171589828-768x540.webp 768w, https://muzeconom.com.ua/wp-content/uploads/2026/08/65582171589828-450x316.webp 450w",
+      "sizes": "(max-width: 1000px) 100vw, 1000px",
       "name": "65582171589828",
       "alt": ""
     },

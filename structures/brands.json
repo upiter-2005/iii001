@@ -144,6 +144,14 @@
     "count": 65
   },
   {
+    "id": 404,
+    "name": "Celestion",
+    "slug": "celestion",
+    "description": "",
+    "parent": 0,
+    "count": 24
+  },
+  {
     "id": 399,
     "name": "Chauvet",
     "slug": "chauvet",
@@ -169,7 +177,7 @@
   },
   {
     "id": 328,
-    "name": "D'Addario",
+    "name": "D&#8217;Addario",
     "slug": "daddario",
     "description": "",
     "parent": 0,
@@ -277,7 +285,7 @@
     "slug": "hl-audio",
     "description": "",
     "parent": 0,
-    "count": 24
+    "count": 26
   },
   {
     "id": 334,
@@ -517,7 +525,7 @@
     "slug": "soundking",
     "description": "",
     "parent": 0,
-    "count": 34
+    "count": 40
   },
   {
     "id": 233,
