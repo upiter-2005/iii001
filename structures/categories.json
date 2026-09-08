@@ -502,7 +502,7 @@
     "slug": "zvuk",
     "description": "",
     "parent": 0,
-    "count": 803,
+    "count": 868,
     "image": {
       "id": 22916,
       "src": "https://muzeconom.com.ua/wp-content/uploads/2026/09/BX3_angle_web.jpg.5fd9f0a51793c.jpg",
@@ -1214,6 +1214,17 @@
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/miksherni-pulty/tsyfrovi-pulty/"
+  },
+  {
+    "id": 406,
+    "name": "Чохли та кейси для звукового обладнання",
+    "slug": "chohly-ta-kejsy-dlya-zvukovogo-obladnannya",
+    "description": "",
+    "parent": 239,
+    "count": 65,
+    "image": null,
+    "review_count": 0,
+    "permalink": "https://muzeconom.com.ua/product-category/zvuk/chohly-ta-kejsy-dlya-zvukovogo-obladnannya/"
   },
   {
     "id": 360,

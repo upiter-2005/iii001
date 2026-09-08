@@ -61,7 +61,7 @@
     "slug": "alto-professional",
     "description": "",
     "parent": 0,
-    "count": 4
+    "count": 7
   },
   {
     "id": 332,
@@ -177,11 +177,11 @@
   },
   {
     "id": 328,
-    "name": "D&#8217;Addario",
+    "name": "D'Addario",
     "slug": "daddario",
     "description": "",
     "parent": 0,
-    "count": 1
+    "count": 3
   },
   {
     "id": 344,
@@ -261,7 +261,7 @@
     "slug": "gator",
     "description": "",
     "parent": 0,
-    "count": 1
+    "count": 45
   },
   {
     "id": 251,
@@ -301,7 +301,7 @@
     "slug": "ik-multimedia",
     "description": "",
     "parent": 0,
-    "count": 21
+    "count": 24
   },
   {
     "id": 277,
@@ -469,7 +469,15 @@
     "slug": "rockbag",
     "description": "",
     "parent": 0,
-    "count": 12
+    "count": 15
+  },
+  {
+    "id": 408,
+    "name": "Rockcase",
+    "slug": "rockcase",
+    "description": "",
+    "parent": 0,
+    "count": 4
   },
   {
     "id": 250,
@@ -493,7 +501,7 @@
     "slug": "samson",
     "description": "",
     "parent": 0,
-    "count": 20
+    "count": 24
   },
   {
     "id": 315,
@@ -629,6 +637,6 @@
     "slug": "yamaha",
     "description": "",
     "parent": 0,
-    "count": 551
+    "count": 553
   }
 ]
