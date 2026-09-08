@@ -413,7 +413,7 @@
     "slug": "nexo",
     "description": "",
     "parent": 0,
-    "count": 10
+    "count": 14
   },
   {
     "id": 382,
@@ -637,6 +637,6 @@
     "slug": "yamaha",
     "description": "",
     "parent": 0,
-    "count": 557
+    "count": 559
   }
 ]
