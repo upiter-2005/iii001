@@ -245,7 +245,7 @@
     "slug": "friedman",
     "description": "",
     "parent": 0,
-    "count": 12
+    "count": 13
   },
   {
     "id": 331,
@@ -405,7 +405,7 @@
     "slug": "mooer",
     "description": "",
     "parent": 0,
-    "count": 103
+    "count": 105
   },
   {
     "id": 261,
@@ -661,7 +661,7 @@
     "slug": "mxr",
     "description": "",
     "parent": 0,
-    "count": 9
+    "count": 11
   },
   {
     "id": 422,
@@ -686,5 +686,13 @@
     "description": "",
     "parent": 0,
     "count": 2
+  },
+  {
+    "id": 425,
+    "name": "Dunlop",
+    "slug": "dunlop",
+    "description": "",
+    "parent": 0,
+    "count": 27
   }
 ]
