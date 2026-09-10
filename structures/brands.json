@@ -245,7 +245,7 @@
     "slug": "friedman",
     "description": "",
     "parent": 0,
-    "count": 9
+    "count": 12
   },
   {
     "id": 331,
@@ -405,7 +405,7 @@
     "slug": "mooer",
     "description": "",
     "parent": 0,
-    "count": 82
+    "count": 103
   },
   {
     "id": 261,
@@ -646,5 +646,45 @@
     "description": "",
     "parent": 0,
     "count": 636
+  },
+  {
+    "id": 420,
+    "name": "Bogner",
+    "slug": "bogner",
+    "description": "",
+    "parent": 0,
+    "count": 3
+  },
+  {
+    "id": 421,
+    "name": "MXR",
+    "slug": "mxr",
+    "description": "",
+    "parent": 0,
+    "count": 9
+  },
+  {
+    "id": 422,
+    "name": "Pro Co",
+    "slug": "pro-co",
+    "description": "",
+    "parent": 0,
+    "count": 1
+  },
+  {
+    "id": 423,
+    "name": "Synergy",
+    "slug": "synergy",
+    "description": "",
+    "parent": 0,
+    "count": 8
+  },
+  {
+    "id": 424,
+    "name": "Wampler",
+    "slug": "wampler",
+    "description": "",
+    "parent": 0,
+    "count": 2
   }
 ]
