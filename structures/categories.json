@@ -18,12 +18,12 @@
     "parent": 0,
     "count": 57,
     "image": {
-      "id": 10749,
-      "src": "https://muzeconom.com.ua/wp-content/uploads/2025/09/43464569237410.webp",
-      "thumbnail": "https://muzeconom.com.ua/wp-content/uploads/2025/09/43464569237410-450x450.webp",
-      "srcset": "https://muzeconom.com.ua/wp-content/uploads/2025/09/43464569237410.webp 920w, https://muzeconom.com.ua/wp-content/uploads/2025/09/43464569237410-450x450.webp 450w, https://muzeconom.com.ua/wp-content/uploads/2025/09/43464569237410-300x300.webp 300w, https://muzeconom.com.ua/wp-content/uploads/2025/09/43464569237410-768x768.webp 768w",
+      "id": 10756,
+      "src": "https://muzeconom.com.ua/wp-content/uploads/2025/09/85872227005104.webp",
+      "thumbnail": "https://muzeconom.com.ua/wp-content/uploads/2025/09/85872227005104-450x450.webp",
+      "srcset": "https://muzeconom.com.ua/wp-content/uploads/2025/09/85872227005104.webp 920w, https://muzeconom.com.ua/wp-content/uploads/2025/09/85872227005104-450x450.webp 450w, https://muzeconom.com.ua/wp-content/uploads/2025/09/85872227005104-300x300.webp 300w, https://muzeconom.com.ua/wp-content/uploads/2025/09/85872227005104-768x768.webp 768w",
       "sizes": "(max-width: 920px) 100vw, 920px",
-      "name": "43464569237410",
+      "name": "85872227005104",
       "alt": ""
     },
     "review_count": 0,
@@ -127,6 +127,17 @@
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/misc/"
+  },
+  {
+    "id": 415,
+    "name": "Wah-wah",
+    "slug": "wah-wah",
+    "description": "",
+    "parent": 412,
+    "count": 0,
+    "image": null,
+    "review_count": 0,
+    "permalink": "https://muzeconom.com.ua/product-category/gitary-i-oborudovanie/gitarni-efekty/wah-wah/"
   },
   {
     "id": 320,
@@ -365,7 +376,7 @@
     "slug": "gitary-i-oborudovanie",
     "description": "",
     "parent": 0,
-    "count": 1362,
+    "count": 1413,
     "image": {
       "id": 22577,
       "src": "https://muzeconom.com.ua/wp-content/uploads/2026/09/384-0205-721_Product20Photo_D-120CE20Natural_Front20Angle.646607969fd4a.jpg",
@@ -377,6 +388,17 @@
     },
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/gitary-i-oborudovanie/"
+  },
+  {
+    "id": 412,
+    "name": "Гітарні ефекти",
+    "slug": "gitarni-efekty",
+    "description": "",
+    "parent": 222,
+    "count": 0,
+    "image": null,
+    "review_count": 0,
+    "permalink": "https://muzeconom.com.ua/product-category/gitary-i-oborudovanie/gitarni-efekty/"
   },
   {
     "id": 294,
@@ -434,6 +456,17 @@
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/dyrekt-boksy/"
   },
   {
+    "id": 414,
+    "name": "Дисторшн",
+    "slug": "dystorshn",
+    "description": "",
+    "parent": 412,
+    "count": 0,
+    "image": null,
+    "review_count": 0,
+    "permalink": "https://muzeconom.com.ua/product-category/gitary-i-oborudovanie/gitarni-efekty/dystorshn/"
+  },
+  {
     "id": 368,
     "name": "Дитячі",
     "slug": "dytyachi",
@@ -443,6 +476,17 @@
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/klavishnye-instrumenty/sintezatory/dytyachi/"
+  },
+  {
+    "id": 416,
+    "name": "Ділей",
+    "slug": "delay-pedal",
+    "description": "",
+    "parent": 412,
+    "count": 0,
+    "image": null,
+    "review_count": 0,
+    "permalink": "https://muzeconom.com.ua/product-category/gitary-i-oborudovanie/gitarni-efekty/delay-pedal/"
   },
   {
     "id": 218,
@@ -513,7 +557,7 @@
     "slug": "zvuk",
     "description": "",
     "parent": 0,
-    "count": 967,
+    "count": 1029,
     "image": {
       "id": 22916,
       "src": "https://muzeconom.com.ua/wp-content/uploads/2026/09/BX3_angle_web.jpg.5fd9f0a51793c.jpg",
@@ -536,6 +580,17 @@
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/klavishnye-instrumenty/tsifrovye-pianino/interyerni-pianino/"
+  },
+  {
+    "id": 419,
+    "name": "Кабінет емулятор",
+    "slug": "kabinet-emulyator",
+    "description": "",
+    "parent": 412,
+    "count": 0,
+    "image": null,
+    "review_count": 0,
+    "permalink": "https://muzeconom.com.ua/product-category/gitary-i-oborudovanie/gitarni-efekty/kabinet-emulyator/"
   },
   {
     "id": 265,
@@ -639,7 +694,7 @@
     "slug": "mikrofony",
     "description": "",
     "parent": 239,
-    "count": 286,
+    "count": 349,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/mikrofony/"
@@ -650,7 +705,7 @@
     "slug": "mikrofony-vokalni",
     "description": "",
     "parent": 310,
-    "count": 39,
+    "count": 93,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/mikrofony/mikrofony-vokalni/"
@@ -672,7 +727,7 @@
     "slug": "mikrofony-instrumentalni",
     "description": "",
     "parent": 248,
-    "count": 10,
+    "count": 41,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/mikrofony/studijni-mikrofony/mikrofony-instrumentalni/"
@@ -717,6 +772,17 @@
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/monitory/monitorni-kontrolery/"
+  },
+  {
+    "id": 413,
+    "name": "Мультиефект процесор",
+    "slug": "multyefekt-protsesor",
+    "description": "",
+    "parent": 412,
+    "count": 51,
+    "image": null,
+    "review_count": 0,
+    "permalink": "https://muzeconom.com.ua/product-category/gitary-i-oborudovanie/gitarni-efekty/multyefekt-protsesor/"
   },
   {
     "id": 246,
@@ -851,6 +917,17 @@
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/mikrofony/radiosystemy/"
   },
   {
+    "id": 417,
+    "name": "Ревербератор",
+    "slug": "reverberator",
+    "description": "",
+    "parent": 412,
+    "count": 0,
+    "image": null,
+    "review_count": 0,
+    "permalink": "https://muzeconom.com.ua/product-category/gitary-i-oborudovanie/gitarni-efekty/reverberator/"
+  },
+  {
     "id": 395,
     "name": "Рідина для генераторів ефектів",
     "slug": "ridyna-dlya-generatoriv-efektiv",
@@ -878,7 +955,7 @@
     "slug": "sabvufery",
     "description": "",
     "parent": 239,
-    "count": 14,
+    "count": 20,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/sabvufery/"
@@ -1117,7 +1194,7 @@
     "slug": "studijni-mikrofony",
     "description": "",
     "parent": 310,
-    "count": 39,
+    "count": 70,
     "image": {
       "id": 8529,
       "src": "https://muzeconom.com.ua/wp-content/uploads/2025/09/20231031161426-920x920-2.webp",
@@ -1225,6 +1302,17 @@
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/gitary-i-oborudovanie/ukulele/"
+  },
+  {
+    "id": 418,
+    "name": "Хорус",
+    "slug": "horus",
+    "description": "",
+    "parent": 412,
+    "count": 0,
+    "image": null,
+    "review_count": 0,
+    "permalink": "https://muzeconom.com.ua/product-category/gitary-i-oborudovanie/gitarni-efekty/horus/"
   },
   {
     "id": 224,
