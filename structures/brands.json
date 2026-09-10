@@ -341,7 +341,7 @@
     "slug": "line-6",
     "description": "",
     "parent": 0,
-    "count": 31
+    "count": 32
   },
   {
     "id": 355,
@@ -405,7 +405,7 @@
     "slug": "mooer",
     "description": "",
     "parent": 0,
-    "count": 105
+    "count": 113
   },
   {
     "id": 261,
@@ -637,7 +637,7 @@
     "slug": "xvive",
     "description": "",
     "parent": 0,
-    "count": 14
+    "count": 15
   },
   {
     "id": 227,
@@ -661,7 +661,7 @@
     "slug": "mxr",
     "description": "",
     "parent": 0,
-    "count": 11
+    "count": 15
   },
   {
     "id": 422,
@@ -685,7 +685,7 @@
     "slug": "wampler",
     "description": "",
     "parent": 0,
-    "count": 2
+    "count": 3
   },
   {
     "id": 425,
@@ -693,6 +693,14 @@
     "slug": "dunlop",
     "description": "",
     "parent": 0,
-    "count": 27
+    "count": 28
+  },
+  {
+    "id": 426,
+    "name": "Way Huge",
+    "slug": "way-huge",
+    "description": "",
+    "parent": 0,
+    "count": 2
   }
 ]
