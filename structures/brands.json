@@ -128,6 +128,14 @@
     "count": 49
   },
   {
+    "id": 420,
+    "name": "Bogner",
+    "slug": "bogner",
+    "description": "",
+    "parent": 0,
+    "count": 3
+  },
+  {
     "id": 234,
     "name": "CANTO",
     "slug": "canto",
@@ -190,6 +198,14 @@
     "description": "",
     "parent": 0,
     "count": 3
+  },
+  {
+    "id": 425,
+    "name": "Dunlop",
+    "slug": "dunlop",
+    "description": "",
+    "parent": 0,
+    "count": 28
   },
   {
     "id": 351,
@@ -408,6 +424,22 @@
     "count": 126
   },
   {
+    "id": 427,
+    "name": "MOTU",
+    "slug": "motu",
+    "description": "",
+    "parent": 0,
+    "count": 20
+  },
+  {
+    "id": 421,
+    "name": "MXR",
+    "slug": "mxr",
+    "description": "",
+    "parent": 0,
+    "count": 22
+  },
+  {
     "id": 261,
     "name": "Nexo",
     "slug": "nexo",
@@ -454,6 +486,14 @@
     "description": "",
     "parent": 0,
     "count": 28
+  },
+  {
+    "id": 422,
+    "name": "Pro Co",
+    "slug": "pro-co",
+    "description": "",
+    "parent": 0,
+    "count": 1
   },
   {
     "id": 356,
@@ -576,6 +616,14 @@
     "count": 3
   },
   {
+    "id": 423,
+    "name": "Synergy",
+    "slug": "synergy",
+    "description": "",
+    "parent": 0,
+    "count": 8
+  },
+  {
     "id": 337,
     "name": "Tanglewood",
     "slug": "tanglewood",
@@ -632,6 +680,22 @@
     "count": 7
   },
   {
+    "id": 424,
+    "name": "Wampler",
+    "slug": "wampler",
+    "description": "",
+    "parent": 0,
+    "count": 3
+  },
+  {
+    "id": 426,
+    "name": "Way Huge",
+    "slug": "way-huge",
+    "description": "",
+    "parent": 0,
+    "count": 2
+  },
+  {
     "id": 364,
     "name": "Xvive",
     "slug": "xvive",
@@ -646,61 +710,5 @@
     "description": "",
     "parent": 0,
     "count": 636
-  },
-  {
-    "id": 420,
-    "name": "Bogner",
-    "slug": "bogner",
-    "description": "",
-    "parent": 0,
-    "count": 3
-  },
-  {
-    "id": 421,
-    "name": "MXR",
-    "slug": "mxr",
-    "description": "",
-    "parent": 0,
-    "count": 22
-  },
-  {
-    "id": 422,
-    "name": "Pro Co",
-    "slug": "pro-co",
-    "description": "",
-    "parent": 0,
-    "count": 1
-  },
-  {
-    "id": 423,
-    "name": "Synergy",
-    "slug": "synergy",
-    "description": "",
-    "parent": 0,
-    "count": 8
-  },
-  {
-    "id": 424,
-    "name": "Wampler",
-    "slug": "wampler",
-    "description": "",
-    "parent": 0,
-    "count": 3
-  },
-  {
-    "id": 425,
-    "name": "Dunlop",
-    "slug": "dunlop",
-    "description": "",
-    "parent": 0,
-    "count": 28
-  },
-  {
-    "id": 426,
-    "name": "Way Huge",
-    "slug": "way-huge",
-    "description": "",
-    "parent": 0,
-    "count": 2
   }
 ]
