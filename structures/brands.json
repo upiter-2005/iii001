@@ -184,6 +184,14 @@
     "count": 176
   },
   {
+    "id": 429,
+    "name": "Crosley",
+    "slug": "crosley",
+    "description": "",
+    "parent": 0,
+    "count": 1
+  },
+  {
     "id": 328,
     "name": "D'Addario",
     "slug": "daddario",
@@ -342,6 +350,14 @@
     "description": "",
     "parent": 0,
     "count": 31
+  },
+  {
+    "id": 430,
+    "name": "Latone",
+    "slug": "latone",
+    "description": "",
+    "parent": 0,
+    "count": 1
   },
   {
     "id": 335,
