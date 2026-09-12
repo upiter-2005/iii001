@@ -101,7 +101,7 @@
     "slug": "audio-technica",
     "description": "",
     "parent": 0,
-    "count": 26
+    "count": 27
   },
   {
     "id": 365,
@@ -189,7 +189,7 @@
     "slug": "crosley",
     "description": "",
     "parent": 0,
-    "count": 11
+    "count": 19
   },
   {
     "id": 328,
@@ -213,7 +213,7 @@
     "slug": "denver",
     "description": "",
     "parent": 0,
-    "count": 1
+    "count": 2
   },
   {
     "id": 425,
@@ -325,7 +325,7 @@
     "slug": "house-of-marley",
     "description": "",
     "parent": 0,
-    "count": 3
+    "count": 5
   },
   {
     "id": 334,
@@ -352,6 +352,14 @@
     "count": 6
   },
   {
+    "id": 438,
+    "name": "JBL",
+    "slug": "jbl",
+    "description": "",
+    "parent": 0,
+    "count": 1
+  },
+  {
     "id": 238,
     "name": "KAWAI",
     "slug": "kawai",
@@ -373,7 +381,7 @@
     "slug": "latone",
     "description": "",
     "parent": 0,
-    "count": 1
+    "count": 2
   },
   {
     "id": 335,
@@ -533,7 +541,7 @@
     "slug": "pro-ject",
     "description": "",
     "parent": 0,
-    "count": 1
+    "count": 13
   },
   {
     "id": 356,
@@ -709,7 +717,15 @@
     "slug": "thomson",
     "description": "",
     "parent": 0,
-    "count": 1
+    "count": 3
+  },
+  {
+    "id": 437,
+    "name": "Thorens",
+    "slug": "thorens",
+    "description": "",
+    "parent": 0,
+    "count": 2
   },
   {
     "id": 338,
@@ -741,7 +757,7 @@
     "slug": "victrola",
     "description": "",
     "parent": 0,
-    "count": 11
+    "count": 15
   },
   {
     "id": 424,
