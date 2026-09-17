@@ -749,7 +749,7 @@
     "slug": "valencia",
     "description": "",
     "parent": 0,
-    "count": 7
+    "count": 126
   },
   {
     "id": 431,
@@ -789,7 +789,7 @@
     "slug": "yamaha",
     "description": "",
     "parent": 0,
-    "count": 639
+    "count": 663
   },
   {
     "id": 440,
@@ -870,5 +870,13 @@
     "description": "",
     "parent": 0,
     "count": 2
+  },
+  {
+    "id": 450,
+    "name": "Kremona",
+    "slug": "kremona",
+    "description": "",
+    "parent": 0,
+    "count": 8
   }
 ]
