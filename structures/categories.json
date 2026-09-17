@@ -568,7 +568,7 @@
     "slug": "zvuk",
     "description": "",
     "parent": 0,
-    "count": 1058,
+    "count": 1064,
     "image": {
       "id": 10756,
       "src": "https://muzeconom.com.ua/wp-content/uploads/2025/09/85872227005104.webp",
@@ -867,7 +867,7 @@
     "slug": "pidsylyuvachi",
     "description": "",
     "parent": 239,
-    "count": 28,
+    "count": 97,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/pidsylyuvachi/"
@@ -1390,5 +1390,16 @@
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/gitary-i-oborudovanie/aksessuary/chohly-kejsy/"
+  },
+  {
+    "id": 439,
+    "name": "Кінцеві підсилювачі",
+    "slug": "kintsevi-pidsylyuvachi",
+    "description": "",
+    "parent": 247,
+    "count": 69,
+    "image": null,
+    "review_count": 0,
+    "permalink": "https://muzeconom.com.ua/product-category/zvuk/pidsylyuvachi/kintsevi-pidsylyuvachi/"
   }
 ]

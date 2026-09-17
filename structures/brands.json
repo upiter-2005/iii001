@@ -117,7 +117,7 @@
     "slug": "behringer",
     "description": "",
     "parent": 0,
-    "count": 12
+    "count": 31
   },
   {
     "id": 378,
@@ -597,7 +597,7 @@
     "slug": "samson",
     "description": "",
     "parent": 0,
-    "count": 32
+    "count": 36
   },
   {
     "id": 315,
@@ -629,7 +629,7 @@
     "slug": "soundking",
     "description": "",
     "parent": 0,
-    "count": 49
+    "count": 56
   },
   {
     "id": 233,
@@ -789,6 +789,86 @@
     "slug": "yamaha",
     "description": "",
     "parent": 0,
-    "count": 636
+    "count": 639
+  },
+  {
+    "id": 440,
+    "name": "Crown",
+    "slug": "crown",
+    "description": "",
+    "parent": 0,
+    "count": 11
+  },
+  {
+    "id": 441,
+    "name": "Lab Gruppen",
+    "slug": "lab-gruppen",
+    "description": "",
+    "parent": 0,
+    "count": 3
+  },
+  {
+    "id": 442,
+    "name": "Reloop",
+    "slug": "reloop",
+    "description": "",
+    "parent": 0,
+    "count": 3
+  },
+  {
+    "id": 443,
+    "name": "Dynacord",
+    "slug": "dynacord",
+    "description": "",
+    "parent": 0,
+    "count": 4
+  },
+  {
+    "id": 444,
+    "name": "Avantone Pro",
+    "slug": "avantone-pro",
+    "description": "",
+    "parent": 0,
+    "count": 2
+  },
+  {
+    "id": 445,
+    "name": "RCF",
+    "slug": "rcf",
+    "description": "",
+    "parent": 0,
+    "count": 3
+  },
+  {
+    "id": 446,
+    "name": "NEXT Audiocom",
+    "slug": "next-audiocom",
+    "description": "",
+    "parent": 0,
+    "count": 1
+  },
+  {
+    "id": 447,
+    "name": "QSC",
+    "slug": "qsc",
+    "description": "",
+    "parent": 0,
+    "count": 1
+  },
+  {
+    "id": 448,
+    "name": "LD Systems",
+    "slug": "ld-systems",
+    "description": "",
+    "parent": 0,
+    "count": 3
+  },
+  {
+    "id": 449,
+    "name": "ART",
+    "slug": "art",
+    "description": "",
+    "parent": 0,
+    "count": 2
   }
 ]
