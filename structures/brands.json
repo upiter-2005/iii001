@@ -77,7 +77,7 @@
     "slug": "antelope",
     "description": "",
     "parent": 0,
-    "count": 36
+    "count": 37
   },
   {
     "id": 280,
@@ -93,7 +93,7 @@
     "slug": "audient",
     "description": "",
     "parent": 0,
-    "count": 6
+    "count": 11
   },
   {
     "id": 309,
@@ -117,7 +117,7 @@
     "slug": "behringer",
     "description": "",
     "parent": 0,
-    "count": 31
+    "count": 52
   },
   {
     "id": 378,
@@ -301,7 +301,7 @@
     "slug": "genelec",
     "description": "",
     "parent": 0,
-    "count": 23
+    "count": 36
   },
   {
     "id": 354,
@@ -341,7 +341,7 @@
     "slug": "ik-multimedia",
     "description": "",
     "parent": 0,
-    "count": 33
+    "count": 47
   },
   {
     "id": 277,
@@ -357,7 +357,7 @@
     "slug": "jbl",
     "description": "",
     "parent": 0,
-    "count": 1
+    "count": 6
   },
   {
     "id": 238,
@@ -365,7 +365,7 @@
     "slug": "kawai",
     "description": "",
     "parent": 0,
-    "count": 43
+    "count": 38
   },
   {
     "id": 235,
@@ -413,7 +413,7 @@
     "slug": "m-audio",
     "description": "",
     "parent": 0,
-    "count": 10
+    "count": 21
   },
   {
     "id": 298,
@@ -421,7 +421,7 @@
     "slug": "mackie",
     "description": "",
     "parent": 0,
-    "count": 7
+    "count": 22
   },
   {
     "id": 400,
@@ -437,7 +437,7 @@
     "slug": "marshall",
     "description": "",
     "parent": 0,
-    "count": 67
+    "count": 119
   },
   {
     "id": 279,
@@ -509,7 +509,7 @@
     "slug": "nux",
     "description": "",
     "parent": 0,
-    "count": 69
+    "count": 71
   },
   {
     "id": 329,
@@ -525,7 +525,7 @@
     "slug": "pioneer-dj",
     "description": "",
     "parent": 0,
-    "count": 28
+    "count": 29
   },
   {
     "id": 422,
@@ -581,7 +581,7 @@
     "slug": "rode",
     "description": "",
     "parent": 0,
-    "count": 137
+    "count": 136
   },
   {
     "id": 237,
@@ -589,7 +589,7 @@
     "slug": "roland",
     "description": "",
     "parent": 0,
-    "count": 36
+    "count": 37
   },
   {
     "id": 366,
@@ -605,7 +605,7 @@
     "slug": "shure",
     "description": "",
     "parent": 0,
-    "count": 71
+    "count": 73
   },
   {
     "id": 375,
@@ -645,7 +645,7 @@
     "slug": "steinberg",
     "description": "",
     "parent": 0,
-    "count": 6
+    "count": 10
   },
   {
     "id": 290,
@@ -741,7 +741,7 @@
     "slug": "universal-audio",
     "description": "",
     "parent": 0,
-    "count": 21
+    "count": 28
   },
   {
     "id": 232,
@@ -789,7 +789,7 @@
     "slug": "yamaha",
     "description": "",
     "parent": 0,
-    "count": 663
+    "count": 690
   },
   {
     "id": 440,
@@ -813,7 +813,7 @@
     "slug": "reloop",
     "description": "",
     "parent": 0,
-    "count": 3
+    "count": 5
   },
   {
     "id": 443,
@@ -878,5 +878,165 @@
     "description": "",
     "parent": 0,
     "count": 8
+  },
+  {
+    "id": 452,
+    "name": "Eve Audio",
+    "slug": "eve-audio",
+    "description": "",
+    "parent": 0,
+    "count": 14
+  },
+  {
+    "id": 453,
+    "name": "Neumann",
+    "slug": "neumann",
+    "description": "",
+    "parent": 0,
+    "count": 7
+  },
+  {
+    "id": 454,
+    "name": "Focal",
+    "slug": "focal",
+    "description": "",
+    "parent": 0,
+    "count": 8
+  },
+  {
+    "id": 455,
+    "name": "KRK",
+    "slug": "krk",
+    "description": "",
+    "parent": 0,
+    "count": 20
+  },
+  {
+    "id": 456,
+    "name": "Kali Audio",
+    "slug": "kali-audio",
+    "description": "",
+    "parent": 0,
+    "count": 14
+  },
+  {
+    "id": 457,
+    "name": "Fluid Audio",
+    "slug": "fluid-audio",
+    "description": "",
+    "parent": 0,
+    "count": 0
+  },
+  {
+    "id": 458,
+    "name": "Solid State Logic",
+    "slug": "solid-state-logic",
+    "description": "",
+    "parent": 0,
+    "count": 7
+  },
+  {
+    "id": 459,
+    "name": "Tascam",
+    "slug": "tascam",
+    "description": "",
+    "parent": 0,
+    "count": 3
+  },
+  {
+    "id": 460,
+    "name": "RME",
+    "slug": "rme",
+    "description": "",
+    "parent": 0,
+    "count": 5
+  },
+  {
+    "id": 461,
+    "name": "LEWITT",
+    "slug": "lewitt",
+    "description": "",
+    "parent": 0,
+    "count": 2
+  },
+  {
+    "id": 462,
+    "name": "Arturia",
+    "slug": "arturia",
+    "description": "",
+    "parent": 0,
+    "count": 12
+  },
+  {
+    "id": 463,
+    "name": "ESI",
+    "slug": "esi",
+    "description": "",
+    "parent": 0,
+    "count": 5
+  },
+  {
+    "id": 464,
+    "name": "Electro Harmonix",
+    "slug": "electro-harmonix",
+    "description": "",
+    "parent": 0,
+    "count": 1
+  },
+  {
+    "id": 465,
+    "name": "Zoom",
+    "slug": "zoom",
+    "description": "",
+    "parent": 0,
+    "count": 4
+  },
+  {
+    "id": 466,
+    "name": "Blackstar",
+    "slug": "blackstar",
+    "description": "",
+    "parent": 0,
+    "count": 2
+  },
+  {
+    "id": 467,
+    "name": "M-Live",
+    "slug": "m-live",
+    "description": "",
+    "parent": 0,
+    "count": 1
+  },
+  {
+    "id": 468,
+    "name": "Black Lion Audio",
+    "slug": "black-lion-audio",
+    "description": "",
+    "parent": 0,
+    "count": 1
+  },
+  {
+    "id": 469,
+    "name": "iCON",
+    "slug": "icon",
+    "description": "",
+    "parent": 0,
+    "count": 1
+  },
+  {
+    "id": 470,
+    "name": "KNA Pickups",
+    "slug": "kna-pickups",
+    "description": "",
+    "parent": 0,
+    "count": 1
+  },
+  {
+    "id": 471,
+    "name": "Positive Grid",
+    "slug": "positive-grid",
+    "description": "",
+    "parent": 0,
+    "count": 1
   }
 ]
