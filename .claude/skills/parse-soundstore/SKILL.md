@@ -15,7 +15,7 @@ After opening each product page you should find:
  6. get (download) pictures from product galary which are in each .gallery__item.swiper-slide-active>span>img 
 
 
- If product is not in store you add it if it has a price
+ If product is not in store and has a price you add it 
 
  After you collect all data you should go to the 'woo-product' skill
 
