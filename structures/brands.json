@@ -1,5 +1,13 @@
 [
   {
+    "id": 498,
+    "name": "MIDAS",
+    "slug": "midas",
+    "description": "",
+    "parent": 0,
+    "count": 45
+  },
+  {
     "id": 486,
     "name": "4ALL AUDIO",
     "slug": "4all-audio",
@@ -157,7 +165,7 @@
     "slug": "behringer",
     "description": "",
     "parent": 0,
-    "count": 477
+    "count": 550
   },
   {
     "id": 378,
