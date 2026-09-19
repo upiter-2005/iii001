@@ -1,11 +1,22 @@
 [
   {
+    "id": 497,
+    "name": "Рупорні акустичні системи",
+    "slug": "ruporni-akustychni-systemy",
+    "description": "",
+    "parent": 254,
+    "count": 1,
+    "image": null,
+    "review_count": 0,
+    "permalink": ""
+  },
+  {
     "id": 491,
     "name": "Кабелі та роз'єми",
     "slug": "kabeli-ta-rozyemy",
     "description": "",
     "parent": 239,
-    "count": 18,
+    "count": 23,
     "image": null,
     "review_count": 0,
     "permalink": ""
@@ -16,7 +27,7 @@
     "slug": "gotovi-kabeli",
     "description": "",
     "parent": 491,
-    "count": 9,
+    "count": 14,
     "image": null,
     "review_count": 0,
     "permalink": ""
@@ -71,7 +82,7 @@
     "slug": "stelovi-akustychni-systemy",
     "description": "",
     "parent": 254,
-    "count": 7,
+    "count": 14,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/akustychni-systemy/stelovi-akustychni-systemy/"
@@ -82,7 +93,7 @@
     "slug": "nastinni-akustychni-systemy",
     "description": "",
     "parent": 254,
-    "count": 11,
+    "count": 35,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/akustychni-systemy/nastinni-akustychni-systemy/"
@@ -93,7 +104,7 @@
     "slug": "regulyatory-guchnosti",
     "description": "",
     "parent": 239,
-    "count": 1,
+    "count": 2,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/regulyatory-guchnosti/"
@@ -104,7 +115,7 @@
     "slug": "spikerni-stiyky",
     "description": "",
     "parent": 239,
-    "count": 2,
+    "count": 3,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/spikerni-stiyky/"
@@ -310,7 +321,7 @@
     "slug": "aksesuary-ta-komplektuyuchi",
     "description": "",
     "parent": 310,
-    "count": 74,
+    "count": 76,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/mikrofony/aksesuary-ta-komplektuyuchi/"
@@ -321,7 +332,7 @@
     "slug": "aktyvni",
     "description": "",
     "parent": 254,
-    "count": 55,
+    "count": 60,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/akustychni-systemy/aktyvni/"
@@ -376,7 +387,7 @@
     "slug": "akustychni-systemy",
     "description": "",
     "parent": 239,
-    "count": 100,
+    "count": 137,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/akustychni-systemy/"
@@ -700,7 +711,7 @@
     "slug": "zvuk",
     "description": "",
     "parent": 0,
-    "count": 1500,
+    "count": 1559,
     "image": {
       "id": 10756,
       "src": "https://muzeconom.com.ua/wp-content/uploads/2025/09/85872227005104.webp",
@@ -848,7 +859,7 @@
     "slug": "mikrofony",
     "description": "",
     "parent": 239,
-    "count": 352,
+    "count": 354,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/mikrofony/"
@@ -892,7 +903,7 @@
     "slug": "miksherni-pulty",
     "description": "",
     "parent": 239,
-    "count": 161,
+    "count": 165,
     "image": {
       "id": 8279,
       "src": "https://muzeconom.com.ua/wp-content/uploads/2025/09/88492448471913.webp",
@@ -1010,7 +1021,7 @@
     "slug": "pidsylyuvachi",
     "description": "",
     "parent": 239,
-    "count": 174,
+    "count": 183,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/pidsylyuvachi/"
