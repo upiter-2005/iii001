@@ -16,7 +16,7 @@
     "slug": "kabeli-ta-rozyemy",
     "description": "",
     "parent": 239,
-    "count": 31,
+    "count": 33,
     "image": null,
     "review_count": 0,
     "permalink": ""
@@ -321,7 +321,7 @@
     "slug": "aksesuary-ta-komplektuyuchi",
     "description": "",
     "parent": 310,
-    "count": 82,
+    "count": 83,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/mikrofony/aksesuary-ta-komplektuyuchi/"
@@ -332,7 +332,7 @@
     "slug": "aktyvni",
     "description": "",
     "parent": 254,
-    "count": 81,
+    "count": 85,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/akustychni-systemy/aktyvni/"
@@ -365,7 +365,7 @@
     "slug": "aktyvni-studijni-monitory",
     "description": "",
     "parent": 252,
-    "count": 163,
+    "count": 164,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/monitory/studijni-monitory/aktyvni-studijni-monitory/"
@@ -387,7 +387,7 @@
     "slug": "akustychni-systemy",
     "description": "",
     "parent": 239,
-    "count": 164,
+    "count": 168,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/akustychni-systemy/"
@@ -442,7 +442,7 @@
     "slug": "audiointerfejsy",
     "description": "",
     "parent": 239,
-    "count": 212,
+    "count": 213,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/audiointerfejsy/"
@@ -519,7 +519,7 @@
     "slug": "gitary-i-oborudovanie",
     "description": "",
     "parent": 0,
-    "count": 1769,
+    "count": 1776,
     "image": {
       "id": 22577,
       "src": "https://muzeconom.com.ua/wp-content/uploads/2026/09/384-0205-721_Product20Photo_D-120CE20Natural_Front20Angle.646607969fd4a.jpg",
@@ -593,7 +593,7 @@
     "slug": "dyrekt-boksy",
     "description": "",
     "parent": 239,
-    "count": 15,
+    "count": 18,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/dyrekt-boksy/"
@@ -711,7 +711,7 @@
     "slug": "zvuk",
     "description": "",
     "parent": 0,
-    "count": 1708,
+    "count": 1746,
     "image": {
       "id": 10756,
       "src": "https://muzeconom.com.ua/wp-content/uploads/2025/09/85872227005104.webp",
@@ -774,7 +774,7 @@
     "slug": "klavishnye-instrumenty",
     "description": "",
     "parent": 0,
-    "count": 555,
+    "count": 582,
     "image": {
       "id": 18406,
       "src": "https://muzeconom.com.ua/wp-content/uploads/2026/09/CLP-835B_a_0001_189f4e639c6cf443e3cd72e04d40fd33.66e1970fd18d1.jpg",
@@ -804,7 +804,7 @@
     "slug": "kombopidsylyuvachi",
     "description": "",
     "parent": 222,
-    "count": 88,
+    "count": 89,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/gitary-i-oborudovanie/kombopidsylyuvachi/"
@@ -815,7 +815,7 @@
     "slug": "kompresory",
     "description": "",
     "parent": 239,
-    "count": 4,
+    "count": 10,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/kompresory/"
@@ -859,7 +859,7 @@
     "slug": "mikrofony",
     "description": "",
     "parent": 239,
-    "count": 391,
+    "count": 400,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/mikrofony/"
@@ -870,7 +870,7 @@
     "slug": "mikrofony-vokalni",
     "description": "",
     "parent": 310,
-    "count": 98,
+    "count": 100,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/mikrofony/mikrofony-vokalni/"
@@ -903,7 +903,7 @@
     "slug": "miksherni-pulty",
     "description": "",
     "parent": 239,
-    "count": 187,
+    "count": 194,
     "image": {
       "id": 8279,
       "src": "https://muzeconom.com.ua/wp-content/uploads/2025/09/88492448471913.webp",
@@ -922,7 +922,7 @@
     "slug": "monitory",
     "description": "",
     "parent": 239,
-    "count": 243,
+    "count": 246,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/monitory/"
@@ -955,7 +955,7 @@
     "slug": "navushnyky",
     "description": "",
     "parent": 239,
-    "count": 115,
+    "count": 116,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/navushnyky/"
@@ -1010,7 +1010,7 @@
     "slug": "pedali-efektiv",
     "description": "",
     "parent": 222,
-    "count": 66,
+    "count": 72,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/gitary-i-oborudovanie/pedali-efektiv/"
@@ -1076,7 +1076,7 @@
     "slug": "profesijni",
     "description": "",
     "parent": 230,
-    "count": 70,
+    "count": 97,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/klavishnye-instrumenty/sintezatory/profesijni/"
@@ -1186,7 +1186,7 @@
     "slug": "sintezatory",
     "description": "",
     "parent": 223,
-    "count": 108,
+    "count": 135,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/klavishnye-instrumenty/sintezatory/"
@@ -1370,7 +1370,7 @@
     "slug": "studijni-mikrofony",
     "description": "",
     "parent": 310,
-    "count": 95,
+    "count": 101,
     "image": {
       "id": 8529,
       "src": "https://muzeconom.com.ua/wp-content/uploads/2025/09/20231031161426-920x920-2.webp",
@@ -1389,7 +1389,7 @@
     "slug": "studijni-monitory",
     "description": "",
     "parent": 341,
-    "count": 233,
+    "count": 234,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/monitory/studijni-monitory/"
@@ -1400,7 +1400,7 @@
     "slug": "studijni-navushnyky",
     "description": "",
     "parent": 246,
-    "count": 54,
+    "count": 55,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/navushnyky/studijni-navushnyky/"
@@ -1422,7 +1422,7 @@
     "slug": "stsenichni-monitory",
     "description": "",
     "parent": 341,
-    "count": 5,
+    "count": 7,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/monitory/stsenichni-monitory/"
@@ -1518,7 +1518,7 @@
     "slug": "chohly-ta-kejsy-dlya-zvukovogo-obladnannya",
     "description": "",
     "parent": 239,
-    "count": 65,
+    "count": 67,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/chohly-ta-kejsy-dlya-zvukovogo-obladnannya/"
