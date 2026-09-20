@@ -126,7 +126,7 @@
     "slug": "dj-kontrolery",
     "description": "",
     "parent": 220,
-    "count": 22,
+    "count": 30,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/dj-oborudovanie/dj-kontrolery/"
@@ -137,7 +137,7 @@
     "slug": "dj-oborudovanie",
     "description": "",
     "parent": 0,
-    "count": 125,
+    "count": 192,
     "image": {
       "id": 10756,
       "src": "https://muzeconom.com.ua/wp-content/uploads/2025/09/85872227005104.webp",
@@ -156,7 +156,7 @@
     "slug": "dj-mikshery",
     "description": "",
     "parent": 220,
-    "count": 8,
+    "count": 14,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/dj-oborudovanie/dj-mikshery/"
@@ -178,7 +178,7 @@
     "slug": "dj-navushnyky-navushnyky",
     "description": "",
     "parent": 246,
-    "count": 22,
+    "count": 27,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/navushnyky/dj-navushnyky-navushnyky/"
@@ -189,7 +189,7 @@
     "slug": "dj-progravachi-cd-usb",
     "description": "",
     "parent": 220,
-    "count": 5,
+    "count": 7,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/dj-oborudovanie/dj-progravachi-cd-usb/"
@@ -200,7 +200,7 @@
     "slug": "dj-systemy",
     "description": "",
     "parent": 220,
-    "count": 4,
+    "count": 7,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/dj-oborudovanie/dj-systemy/"
@@ -332,7 +332,7 @@
     "slug": "aktyvni",
     "description": "",
     "parent": 254,
-    "count": 96,
+    "count": 98,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/akustychni-systemy/aktyvni/"
@@ -387,7 +387,7 @@
     "slug": "akustychni-systemy",
     "description": "",
     "parent": 239,
-    "count": 189,
+    "count": 191,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/akustychni-systemy/"
@@ -711,7 +711,7 @@
     "slug": "zvuk",
     "description": "",
     "parent": 0,
-    "count": 2004,
+    "count": 2011,
     "image": {
       "id": 10756,
       "src": "https://muzeconom.com.ua/wp-content/uploads/2025/09/85872227005104.webp",
@@ -955,7 +955,7 @@
     "slug": "navushnyky",
     "description": "",
     "parent": 239,
-    "count": 142,
+    "count": 147,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/navushnyky/"
@@ -1555,5 +1555,25 @@
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/gitary-i-oborudovanie/aksessuary/chohly-kejsy/"
+  },
+  {
+    "id": 499,
+    "name": "DJ-аксесуари",
+    "slug": "dj-aksesuary",
+    "parent": 220,
+    "count": 35,
+    "image": null,
+    "review_count": 0,
+    "permalink": ""
+  },
+  {
+    "id": 500,
+    "name": "DJ-монітори",
+    "slug": "dj-monitory",
+    "parent": 220,
+    "count": 13,
+    "image": null,
+    "review_count": 0,
+    "permalink": ""
   }
 ]
