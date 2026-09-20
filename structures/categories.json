@@ -16,7 +16,7 @@
     "slug": "dj-oborudovanie",
     "description": "",
     "parent": 0,
-    "count": 194,
+    "count": 196,
     "image": {
       "id": 10756,
       "date_created": "2025-09-30T16:54:00",
@@ -36,7 +36,7 @@
     "slug": "dj-aksesuary",
     "description": "",
     "parent": 220,
-    "count": 37,
+    "count": 39,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/dj-oborudovanie/dj-aksesuary/"
@@ -157,7 +157,7 @@
     "slug": "misc",
     "description": "",
     "parent": 0,
-    "count": 5,
+    "count": 6,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/misc/"
@@ -201,7 +201,7 @@
     "slug": "aksesuary-klavishni",
     "description": "",
     "parent": 223,
-    "count": 78,
+    "count": 83,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/klavishnye-instrumenty/aksesuary-klavishni/"
@@ -223,7 +223,7 @@
     "slug": "aksesuary-ta-komplektuyuchi",
     "description": "",
     "parent": 310,
-    "count": 110,
+    "count": 126,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/mikrofony/aksesuary-ta-komplektuyuchi/"
@@ -432,7 +432,7 @@
     "slug": "gitary-i-oborudovanie",
     "description": "",
     "parent": 0,
-    "count": 1812,
+    "count": 1815,
     "image": {
       "id": 22577,
       "date_created": "2026-09-04T18:19:04",
@@ -637,7 +637,7 @@
     "slug": "zvuk",
     "description": "",
     "parent": 0,
-    "count": 2099,
+    "count": 2151,
     "image": {
       "id": 10756,
       "date_created": "2025-09-30T16:54:00",
@@ -712,7 +712,7 @@
     "slug": "klavishnye-instrumenty",
     "description": "",
     "parent": 0,
-    "count": 648,
+    "count": 653,
     "image": {
       "id": 18406,
       "date_created": "2026-09-03T10:17:35",
@@ -798,7 +798,7 @@
     "slug": "mikrofony",
     "description": "",
     "parent": 239,
-    "count": 450,
+    "count": 466,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/mikrofony/"
@@ -895,7 +895,7 @@
     "slug": "muzychni-stijky",
     "description": "",
     "parent": 239,
-    "count": 6,
+    "count": 8,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/muzychni-stijky/"
@@ -917,7 +917,7 @@
     "slug": "multymedia-stijky",
     "description": "",
     "parent": 239,
-    "count": 8,
+    "count": 14,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/multymedia-stijky/"
@@ -1181,7 +1181,7 @@
     "slug": "svitlo",
     "description": "",
     "parent": 0,
-    "count": 123,
+    "count": 129,
     "image": {
       "id": 3319,
       "date_created": null,
@@ -1375,7 +1375,7 @@
     "slug": "spikerni-stijky",
     "description": "",
     "parent": 239,
-    "count": 27,
+    "count": 41,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/spikerni-stijky/"
@@ -1397,7 +1397,7 @@
     "slug": "stijky-dlya-gitar",
     "description": "",
     "parent": 222,
-    "count": 9,
+    "count": 12,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/gitary-i-oborudovanie/stijky-dlya-gitar/"
@@ -1408,7 +1408,7 @@
     "slug": "stijky-dlya-klavishnyh-instrumentiv",
     "description": "",
     "parent": 350,
-    "count": 29,
+    "count": 34,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/klavishnye-instrumenty/aksesuary-klavishni/stijky-dlya-klavishnyh-instrumentiv/"
@@ -1419,7 +1419,7 @@
     "slug": "stijky-mikrofonni",
     "description": "",
     "parent": 239,
-    "count": 49,
+    "count": 58,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/stijky-mikrofonni/"
@@ -1430,7 +1430,7 @@
     "slug": "stijky-ta-trymachi-dlya-svitlovyh-pryladiv",
     "description": "",
     "parent": 219,
-    "count": 25,
+    "count": 31,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/svitlo/stijky-ta-trymachi-dlya-svitlovyh-pryladiv/"
@@ -1441,7 +1441,7 @@
     "slug": "stiltsi",
     "description": "",
     "parent": 15,
-    "count": 2,
+    "count": 3,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/misc/stiltsi/"
@@ -1613,7 +1613,7 @@
     "slug": "chohly-ta-kejsy-dlya-zvukovogo-obladnannya",
     "description": "",
     "parent": 239,
-    "count": 75,
+    "count": 80,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/chohly-ta-kejsy-dlya-zvukovogo-obladnannya/"
