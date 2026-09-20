@@ -1,13 +1,5 @@
 [
   {
-    "id": 498,
-    "name": "MIDAS",
-    "slug": "midas",
-    "description": "",
-    "parent": 0,
-    "count": 45
-  },
-  {
     "id": 486,
     "name": "4ALL AUDIO",
     "slug": "4all-audio",
@@ -273,7 +265,7 @@
   },
   {
     "id": 328,
-    "name": "D&#8217;Addario",
+    "name": "D'Addario",
     "slug": "daddario",
     "description": "",
     "parent": 0,
@@ -446,6 +438,14 @@
     "description": "",
     "parent": 0,
     "count": 36
+  },
+  {
+    "id": 506,
+    "name": "GRAVITY",
+    "slug": "gravity",
+    "description": "",
+    "parent": 0,
+    "count": 120
   },
   {
     "id": 354,
@@ -678,6 +678,14 @@
     "description": "",
     "parent": 0,
     "count": 1
+  },
+  {
+    "id": 498,
+    "name": "MIDAS",
+    "slug": "midas",
+    "description": "",
+    "parent": 0,
+    "count": 45
   },
   {
     "id": 345,
