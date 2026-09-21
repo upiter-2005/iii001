@@ -234,7 +234,7 @@
     "slug": "aksesuary-ta-komplektuyuchi",
     "description": "",
     "parent": 310,
-    "count": 127,
+    "count": 162,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/mikrofony/aksesuary-ta-komplektuyuchi/"
@@ -355,7 +355,7 @@
     "slug": "audiointerfejsy",
     "description": "",
     "parent": 239,
-    "count": 226,
+    "count": 234,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/audiointerfejsy/"
@@ -454,7 +454,7 @@
     "slug": "gitary-i-oborudovanie",
     "description": "",
     "parent": 0,
-    "count": 1815,
+    "count": 1862,
     "image": {
       "id": 40786,
       "date_created": "2026-09-21T09:59:06",
@@ -474,7 +474,7 @@
     "slug": "gitarni-efekty",
     "description": "",
     "parent": 222,
-    "count": 170,
+    "count": 212,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/gitary-i-oborudovanie/gitarni-efekty/"
@@ -551,7 +551,7 @@
     "slug": "dystorshn",
     "description": "",
     "parent": 412,
-    "count": 47,
+    "count": 48,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/gitary-i-oborudovanie/gitarni-efekty/dystorshn/"
@@ -659,7 +659,7 @@
     "slug": "zvuk",
     "description": "",
     "parent": 0,
-    "count": 2266,
+    "count": 2389,
     "image": {
       "id": 40790,
       "date_created": "2026-09-21T10:07:27",
@@ -690,7 +690,7 @@
     "slug": "kabeli-ta-rozyemy",
     "description": "",
     "parent": 239,
-    "count": 106,
+    "count": 109,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/kabeli-ta-rozyemy/"
@@ -701,7 +701,7 @@
     "slug": "kabinet-emulyator",
     "description": "",
     "parent": 412,
-    "count": 3,
+    "count": 5,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/gitary-i-oborudovanie/gitarni-efekty/kabinet-emulyator/"
@@ -820,7 +820,7 @@
     "slug": "mikrofony",
     "description": "",
     "parent": 239,
-    "count": 468,
+    "count": 514,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/mikrofony/"
@@ -831,7 +831,7 @@
     "slug": "mikrofony-vokalni",
     "description": "",
     "parent": 310,
-    "count": 104,
+    "count": 105,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/mikrofony/mikrofony-vokalni/"
@@ -842,7 +842,7 @@
     "slug": "mikrofony-dlya-movlennya-ta-reportazhiv",
     "description": "",
     "parent": 310,
-    "count": 9,
+    "count": 18,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/mikrofony/mikrofony-dlya-movlennya-ta-reportazhiv/"
@@ -864,7 +864,7 @@
     "slug": "mikrofonni-kabeli",
     "description": "",
     "parent": 491,
-    "count": 16,
+    "count": 19,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/kabeli-ta-rozyemy/mikrofonni-kabeli/"
@@ -875,7 +875,7 @@
     "slug": "miksherni-pulty",
     "description": "",
     "parent": 239,
-    "count": 263,
+    "count": 272,
     "image": {
       "id": 8279,
       "date_created": "2025-09-03T11:27:07",
@@ -928,7 +928,7 @@
     "slug": "multyefekt-protsesor",
     "description": "",
     "parent": 412,
-    "count": 51,
+    "count": 89,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/gitary-i-oborudovanie/gitarni-efekty/multyefekt-protsesor/"
@@ -950,7 +950,7 @@
     "slug": "navushnyky",
     "description": "",
     "parent": 239,
-    "count": 151,
+    "count": 152,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/navushnyky/"
@@ -1016,7 +1016,7 @@
     "slug": "pedali-efektiv",
     "description": "",
     "parent": 222,
-    "count": 97,
+    "count": 102,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/gitary-i-oborudovanie/pedali-efektiv/"
@@ -1027,7 +1027,7 @@
     "slug": "pidsylyuvachi",
     "description": "",
     "parent": 239,
-    "count": 202,
+    "count": 203,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/pidsylyuvachi/"
@@ -1119,6 +1119,17 @@
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/regulyatory-guchnosti/"
+  },
+  {
+    "id": 513,
+    "name": "Рекордери / диктофони",
+    "slug": "rekordery-dyktofony",
+    "description": "",
+    "parent": 239,
+    "count": 39,
+    "image": null,
+    "review_count": 0,
+    "permalink": "https://muzeconom.com.ua/product-category/zvuk/rekordery-dyktofony/"
   },
   {
     "id": 395,
@@ -1441,7 +1452,7 @@
     "slug": "stijky-mikrofonni",
     "description": "",
     "parent": 239,
-    "count": 59,
+    "count": 62,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/stijky-mikrofonni/"
@@ -1485,7 +1496,7 @@
     "slug": "studijni-mikrofony",
     "description": "",
     "parent": 310,
-    "count": 110,
+    "count": 111,
     "image": {
       "id": 8529,
       "date_created": "2025-09-04T11:11:10",
@@ -1516,7 +1527,7 @@
     "slug": "studijni-navushnyky",
     "description": "",
     "parent": 246,
-    "count": 61,
+    "count": 62,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/navushnyky/studijni-navushnyky/"
@@ -1624,7 +1635,7 @@
     "slug": "tsyfrovi-pulty",
     "description": "",
     "parent": 244,
-    "count": 39,
+    "count": 46,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/miksherni-pulty/tsyfrovi-pulty/"
@@ -1635,7 +1646,7 @@
     "slug": "chohly-ta-kejsy-dlya-zvukovogo-obladnannya",
     "description": "",
     "parent": 239,
-    "count": 80,
+    "count": 93,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/chohly-ta-kejsy-dlya-zvukovogo-obladnannya/"
