@@ -240,6 +240,14 @@
     "count": 72
   },
   {
+    "id": 512,
+    "name": "Clarity",
+    "slug": "clarity",
+    "description": "",
+    "parent": 0,
+    "count": 57
+  },
+  {
     "id": 330,
     "name": "CORDOBA",
     "slug": "cordoba",

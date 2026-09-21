@@ -212,7 +212,7 @@
     "slug": "aksesuary-klavishni",
     "description": "",
     "parent": 223,
-    "count": 83,
+    "count": 20,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/klavishnye-instrumenty/aksesuary-klavishni/"
@@ -245,7 +245,7 @@
     "slug": "aktyvni",
     "description": "",
     "parent": 254,
-    "count": 98,
+    "count": 104,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/akustychni-systemy/aktyvni/"
@@ -300,7 +300,7 @@
     "slug": "akustychni-systemy",
     "description": "",
     "parent": 239,
-    "count": 191,
+    "count": 195,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/akustychni-systemy/"
@@ -496,7 +496,7 @@
     "slug": "gotovi-kabeli",
     "description": "",
     "parent": 491,
-    "count": 22,
+    "count": 58,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/kabeli-ta-rozyemy/gotovi-kabeli/"
@@ -659,7 +659,7 @@
     "slug": "zvuk",
     "description": "",
     "parent": 0,
-    "count": 1258,
+    "count": 1308,
     "image": {
       "id": 10756,
       "date_created": "2025-09-30T16:54:00",
@@ -690,7 +690,7 @@
     "slug": "kabeli-ta-rozyemy",
     "description": "",
     "parent": 239,
-    "count": 70,
+    "count": 106,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/kabeli-ta-rozyemy/"
@@ -734,7 +734,7 @@
     "slug": "klavishnye-instrumenty",
     "description": "",
     "parent": 0,
-    "count": 653,
+    "count": 512,
     "image": {
       "id": 18406,
       "date_created": "2026-09-03T10:17:35",
@@ -820,7 +820,7 @@
     "slug": "mikrofony",
     "description": "",
     "parent": 239,
-    "count": 467,
+    "count": 375,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/mikrofony/"
@@ -1093,7 +1093,7 @@
     "slug": "radiosystemy",
     "description": "",
     "parent": 310,
-    "count": 105,
+    "count": 106,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/mikrofony/radiosystemy/"
@@ -1203,7 +1203,7 @@
     "slug": "svitlo",
     "description": "",
     "parent": 0,
-    "count": 129,
+    "count": 91,
     "image": {
       "id": 3319,
       "date_created": null,
@@ -1397,7 +1397,7 @@
     "slug": "spikerni-stijky",
     "description": "",
     "parent": 239,
-    "count": 41,
+    "count": 47,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/spikerni-stijky/"
@@ -1430,7 +1430,7 @@
     "slug": "stijky-dlya-klavishnyh-instrumentiv",
     "description": "",
     "parent": 350,
-    "count": 34,
+    "count": 37,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/klavishnye-instrumenty/aksesuary-klavishni/stijky-dlya-klavishnyh-instrumentiv/"
@@ -1441,7 +1441,7 @@
     "slug": "stijky-mikrofonni",
     "description": "",
     "parent": 239,
-    "count": 58,
+    "count": 59,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/stijky-mikrofonni/"
@@ -1452,7 +1452,7 @@
     "slug": "stijky-ta-trymachi-dlya-svitlovyh-pryladiv",
     "description": "",
     "parent": 219,
-    "count": 31,
+    "count": 35,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/svitlo/stijky-ta-trymachi-dlya-svitlovyh-pryladiv/"
