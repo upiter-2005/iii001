@@ -267,7 +267,7 @@
     "slug": "aktyvni-sabvufery",
     "description": "",
     "parent": 407,
-    "count": 17,
+    "count": 23,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/sabvufery/aktyvni-sabvufery/"
@@ -278,7 +278,7 @@
     "slug": "aktyvni-studijni-monitory",
     "description": "",
     "parent": 252,
-    "count": 171,
+    "count": 208,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/monitory/studijni-monitory/aktyvni-studijni-monitory/"
@@ -659,7 +659,7 @@
     "slug": "zvuk",
     "description": "",
     "parent": 0,
-    "count": 2153,
+    "count": 1258,
     "image": {
       "id": 10756,
       "date_created": "2025-09-30T16:54:00",
@@ -723,7 +723,7 @@
     "slug": "kintsevi-pidsylyuvachi",
     "description": "",
     "parent": 247,
-    "count": 71,
+    "count": 82,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/pidsylyuvachi/kintsevi-pidsylyuvachi/"
@@ -895,7 +895,7 @@
     "slug": "monitory",
     "description": "",
     "parent": 239,
-    "count": 256,
+    "count": 181,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/monitory/"
@@ -906,7 +906,7 @@
     "slug": "monitorni-kontrolery",
     "description": "",
     "parent": 341,
-    "count": 2,
+    "count": 5,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/monitory/monitorni-kontrolery/"
@@ -1027,7 +1027,7 @@
     "slug": "pidsylyuvachi",
     "description": "",
     "parent": 239,
-    "count": 191,
+    "count": 202,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/pidsylyuvachi/"
@@ -1049,7 +1049,7 @@
     "slug": "pidstavky-dlya-monitoriv",
     "description": "",
     "parent": 341,
-    "count": 4,
+    "count": 7,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/monitory/pidstavky-dlya-monitoriv/"
@@ -1505,7 +1505,7 @@
     "slug": "studijni-monitory",
     "description": "",
     "parent": 341,
-    "count": 241,
+    "count": 278,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/monitory/studijni-monitory/"
@@ -1527,7 +1527,7 @@
     "slug": "studijni-sabvufery",
     "description": "",
     "parent": 407,
-    "count": 6,
+    "count": 12,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/sabvufery/studijni-sabvufery/"

@@ -320,6 +320,14 @@
     "count": 4
   },
   {
+    "id": 511,
+    "name": "Dynaudio",
+    "slug": "dynaudio",
+    "description": "",
+    "parent": 0,
+    "count": 60
+  },
+  {
     "id": 510,
     "name": "EIKI",
     "slug": "eiki",
