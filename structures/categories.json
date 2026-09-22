@@ -27,7 +27,7 @@
     "slug": "dj-oborudovanie",
     "description": "",
     "parent": 0,
-    "count": 196,
+    "count": 201,
     "image": {
       "id": 40788,
       "date_created": "2026-09-21T10:00:59",
@@ -135,7 +135,7 @@
     "slug": "led-pidsvichuvannya",
     "description": "",
     "parent": 219,
-    "count": 4,
+    "count": 27,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/svitlo/led-pidsvichuvannya/"
@@ -146,7 +146,7 @@
     "slug": "midi-kontrolery",
     "description": "",
     "parent": 223,
-    "count": 31,
+    "count": 34,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/klavishnye-instrumenty/midi-kontrolery/"
@@ -190,7 +190,7 @@
     "slug": "aksesuary",
     "description": "",
     "parent": 219,
-    "count": 2,
+    "count": 30,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/svitlo/aksesuary/"
@@ -734,7 +734,7 @@
     "slug": "klavishnye-instrumenty",
     "description": "",
     "parent": 0,
-    "count": 688,
+    "count": 691,
     "image": {
       "id": 40785,
       "date_created": "2026-09-21T09:58:02",
@@ -787,7 +787,7 @@
     "slug": "kontrolery-ta-pulty-dmx",
     "description": "",
     "parent": 219,
-    "count": 11,
+    "count": 23,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/svitlo/kontrolery-ta-pulty-dmx/"
@@ -809,7 +809,7 @@
     "slug": "lazery",
     "description": "",
     "parent": 219,
-    "count": 0,
+    "count": 7,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/svitlo/lazery/"
@@ -1060,7 +1060,7 @@
     "slug": "prylady-zalyvnogo-svitla",
     "description": "",
     "parent": 219,
-    "count": 12,
+    "count": 13,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/svitlo/prylady-zalyvnogo-svitla/"
@@ -1203,7 +1203,7 @@
     "slug": "svitylnyky-pinspot",
     "description": "",
     "parent": 219,
-    "count": 1,
+    "count": 4,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/svitlo/svitylnyky-pinspot/"
@@ -1214,7 +1214,7 @@
     "slug": "svitlo",
     "description": "",
     "parent": 0,
-    "count": 133,
+    "count": 246,
     "image": {
       "id": 40796,
       "date_created": "2026-09-21T10:35:09",
@@ -1234,7 +1234,7 @@
     "slug": "svitlovi-efekty",
     "description": "",
     "parent": 219,
-    "count": 15,
+    "count": 40,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/svitlo/svitlovi-efekty/"
@@ -1245,7 +1245,7 @@
     "slug": "svitlovi-prylady-golovy",
     "description": "",
     "parent": 219,
-    "count": 12,
+    "count": 23,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/svitlo/svitlovi-prylady-golovy/"
@@ -1485,7 +1485,7 @@
     "slug": "stroboskopy",
     "description": "",
     "parent": 219,
-    "count": 0,
+    "count": 3,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/svitlo/stroboskopy/"
@@ -1683,5 +1683,16 @@
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/gitary-i-oborudovanie/aksessuary/chohly-kejsy/"
+  },
+  {
+    "id": 514,
+    "name": "Обладнання та аксесуари",
+    "slug": "obladnannya-ta-aksesuary",
+    "description": "",
+    "parent": 221,
+    "count": 0,
+    "image": null,
+    "review_count": 0,
+    "permalink": "https://muzeconom.com.ua/product-category/obladnannya-ta-aksesuary/"
   }
 ]
