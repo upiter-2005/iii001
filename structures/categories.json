@@ -659,7 +659,7 @@
     "slug": "zvuk",
     "description": "",
     "parent": 0,
-    "count": 2499,
+    "count": 2507,
     "image": {
       "id": 40790,
       "date_created": "2026-09-21T10:07:27",
@@ -820,7 +820,7 @@
     "slug": "mikrofony",
     "description": "",
     "parent": 239,
-    "count": 548,
+    "count": 556,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/mikrofony/"
@@ -1694,5 +1694,16 @@
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/obladnannya-ta-aksesuary/"
+  },
+  {
+    "id": 519,
+    "name": "Комплекти мікрофонів (кейс-набори)",
+    "slug": "komplekty-mikrofoniv-kejs-nabory",
+    "description": "",
+    "parent": 310,
+    "count": 8,
+    "image": null,
+    "review_count": 0,
+    "permalink": "https://muzeconom.com.ua/product-category/zvuk/mikrofony/komplekty-mikrofoniv-kejs-nabory/"
   }
 ]
