@@ -1214,5 +1214,13 @@
     "description": "",
     "parent": 0,
     "count": 156
+  },
+  {
+    "id": 518,
+    "name": "DPA microphones",
+    "slug": "dpa-microphones",
+    "description": "",
+    "parent": 0,
+    "count": 34
   }
 ]
