@@ -659,7 +659,7 @@
     "slug": "zvuk",
     "description": "",
     "parent": 0,
-    "count": 2507,
+    "count": 2512,
     "image": {
       "id": 40790,
       "date_created": "2026-09-21T10:07:27",
@@ -820,7 +820,7 @@
     "slug": "mikrofony",
     "description": "",
     "parent": 239,
-    "count": 556,
+    "count": 561,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/mikrofony/"
@@ -1705,5 +1705,16 @@
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/mikrofony/komplekty-mikrofoniv-kejs-nabory/"
+  },
+  {
+    "id": 520,
+    "name": "Мікрофон типу Shotgun (\"гармата\")",
+    "slug": "mikrofon-typu-shotgun-garmata",
+    "description": "",
+    "parent": 310,
+    "count": 5,
+    "image": null,
+    "review_count": 0,
+    "permalink": "https://muzeconom.com.ua/product-category/zvuk/mikrofony/mikrofon-typu-shotgun-garmata/"
   }
 ]
