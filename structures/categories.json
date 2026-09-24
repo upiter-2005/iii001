@@ -1705,5 +1705,71 @@
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/mikrofony/komplekty-mikrofoniv-kejs-nabory/"
+  },
+  {
+    "id": 546,
+    "name": "Саксофони",
+    "slug": "saksofony",
+    "description": "",
+    "parent": 218,
+    "count": 41,
+    "image": null,
+    "review_count": 0,
+    "permalink": "https://muzeconom.com.ua/product-category/duhovye-instrumenty/saksofony/"
+  },
+  {
+    "id": 547,
+    "name": "Альт-саксофони",
+    "slug": "alt-saksofony",
+    "description": "",
+    "parent": 546,
+    "count": 18,
+    "image": null,
+    "review_count": 0,
+    "permalink": "https://muzeconom.com.ua/product-category/duhovye-instrumenty/saksofony/alt-saksofony/"
+  },
+  {
+    "id": 548,
+    "name": "Тенор-саксофони",
+    "slug": "tenor-saksofony",
+    "description": "",
+    "parent": 546,
+    "count": 12,
+    "image": null,
+    "review_count": 0,
+    "permalink": "https://muzeconom.com.ua/product-category/duhovye-instrumenty/saksofony/tenor-saksofony/"
+  },
+  {
+    "id": 549,
+    "name": "Сопрано-саксофони",
+    "slug": "soprano-saksofony",
+    "description": "",
+    "parent": 546,
+    "count": 6,
+    "image": null,
+    "review_count": 0,
+    "permalink": "https://muzeconom.com.ua/product-category/duhovye-instrumenty/saksofony/soprano-saksofony/"
+  },
+  {
+    "id": 550,
+    "name": "Баритон-саксофони",
+    "slug": "baryton-saksofony",
+    "description": "",
+    "parent": 546,
+    "count": 3,
+    "image": null,
+    "review_count": 0,
+    "permalink": "https://muzeconom.com.ua/product-category/duhovye-instrumenty/saksofony/baryton-saksofony/"
+  },
+  {
+    "id": 551,
+    "name": "Цифрові саксофони",
+    "slug": "tsyfrovi-saksofony",
+    "description": "",
+    "parent": 546,
+    "count": 2,
+    "image": null,
+    "review_count": 0,
+    "permalink": "https://muzeconom.com.ua/product-category/duhovye-instrumenty/saksofony/tsyfrovi-saksofony/"
   }
 ]
