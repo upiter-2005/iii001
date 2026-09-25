@@ -1377,7 +1377,7 @@
     "slug": "smychkovi",
     "description": "",
     "parent": 0,
-    "count": 77,
+    "count": 137,
     "image": {
       "id": 40784,
       "date_created": "2026-09-21T09:57:15",
@@ -1705,5 +1705,13 @@
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/mikrofony/komplekty-mikrofoniv-kejs-nabory/"
+  },
+  {
+    "id": 562,
+    "name": "Чохли та кейси для смичкових інструментів",
+    "slug": "chokhly-ta-keisy-dlia-smychkovykh",
+    "description": "",
+    "parent": 281,
+    "count": 21
   }
 ]
