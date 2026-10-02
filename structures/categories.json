@@ -5,7 +5,7 @@
     "slug": "aksesuary-dlya-akustychnyh-system",
     "description": "",
     "parent": 254,
-    "count": 28,
+    "count": 213,
     "image": null
   },
   {
@@ -15,6 +15,15 @@
     "description": "",
     "parent": 244,
     "count": 0,
+    "image": null
+  },
+  {
+    "id": 595,
+    "name": "Акустичні екрани для мікрофонів",
+    "slug": "akustychni-ekrany-dlya-mikrofoniv",
+    "description": "",
+    "parent": 310,
+    "count": 11,
     "image": null
   },
   {
@@ -50,7 +59,7 @@
     "slug": "mikrofony-instrumentalni-z-maloyu-diafragmoyu",
     "description": "",
     "parent": 310,
-    "count": 0,
+    "count": 10,
     "image": null
   },
   {
@@ -277,7 +286,7 @@
     "slug": "wah-wah",
     "description": "",
     "parent": 412,
-    "count": 32,
+    "count": 35,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/gitary-i-oborudovanie/gitarni-efekty/wah-wah/"
@@ -299,7 +308,7 @@
     "slug": "aksessuary",
     "description": "",
     "parent": 222,
-    "count": 179,
+    "count": 186,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/gitary-i-oborudovanie/aksessuary/"
@@ -310,7 +319,7 @@
     "slug": "aksesuary-klavishni",
     "description": "",
     "parent": 223,
-    "count": 142,
+    "count": 117,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/klavishnye-instrumenty/aksesuary-klavishni/"
@@ -343,7 +352,7 @@
     "slug": "aksesuary-ta-komplektuyuchi",
     "description": "",
     "parent": 310,
-    "count": 208,
+    "count": 229,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/mikrofony/aksesuary-ta-komplektuyuchi/"
@@ -354,7 +363,7 @@
     "slug": "aksesuary-adaptery-ta-kapsuli",
     "description": "",
     "parent": 310,
-    "count": 11,
+    "count": 38,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/mikrofony/aksesuary-adaptery-ta-kapsuli/"
@@ -365,7 +374,7 @@
     "slug": "aktyvni",
     "description": "",
     "parent": 254,
-    "count": 104,
+    "count": 187,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/akustychni-systemy/aktyvni/"
@@ -376,7 +385,7 @@
     "slug": "aktyvni-sabvufery",
     "description": "",
     "parent": 407,
-    "count": 23,
+    "count": 45,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/sabvufery/aktyvni-sabvufery/"
@@ -398,7 +407,7 @@
     "slug": "akusticheskie",
     "description": "",
     "parent": 222,
-    "count": 157,
+    "count": 165,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/gitary-i-oborudovanie/akusticheskie/"
@@ -409,7 +418,7 @@
     "slug": "akustychni-systemy",
     "description": "",
     "parent": 239,
-    "count": 290,
+    "count": 639,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/akustychni-systemy/"
@@ -453,7 +462,7 @@
     "slug": "analogovi-pulty",
     "description": "",
     "parent": 244,
-    "count": 48,
+    "count": 51,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/miksherni-pulty/analogovi-pulty/"
@@ -475,7 +484,7 @@
     "slug": "audiointerfejsy",
     "description": "",
     "parent": 239,
-    "count": 301,
+    "count": 303,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/audiointerfejsy/"
@@ -519,7 +528,7 @@
     "slug": "bas-gitary",
     "description": "",
     "parent": 222,
-    "count": 18,
+    "count": 53,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/gitary-i-oborudovanie/bas-gitary/"
@@ -596,7 +605,7 @@
     "slug": "vitrozahyst",
     "description": "",
     "parent": 310,
-    "count": 14,
+    "count": 16,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/mikrofony/vitrozahyst/"
@@ -629,7 +638,7 @@
     "slug": "gitary-i-oborudovanie",
     "description": "",
     "parent": 0,
-    "count": 2112,
+    "count": 2649,
     "image": {
       "id": 40786,
       "src": "https://muzeconom.com.ua/wp-content/uploads/2026/09/giutar.webp",
@@ -648,7 +657,7 @@
     "slug": "gitarni-efekty",
     "description": "",
     "parent": 222,
-    "count": 212,
+    "count": 318,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/gitary-i-oborudovanie/gitarni-efekty/"
@@ -736,7 +745,7 @@
     "slug": "dyrekt-boksy",
     "description": "",
     "parent": 239,
-    "count": 19,
+    "count": 21,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/dyrekt-boksy/"
@@ -747,7 +756,7 @@
     "slug": "dystorshn",
     "description": "",
     "parent": 412,
-    "count": 48,
+    "count": 91,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/gitary-i-oborudovanie/gitarni-efekty/dystorshn/"
@@ -769,7 +778,7 @@
     "slug": "delay-pedal",
     "description": "",
     "parent": 412,
-    "count": 18,
+    "count": 28,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/gitary-i-oborudovanie/gitarni-efekty/delay-pedal/"
@@ -810,7 +819,7 @@
     "slug": "elektroakustychni",
     "description": "",
     "parent": 222,
-    "count": 206,
+    "count": 258,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/gitary-i-oborudovanie/elektroakustychni/"
@@ -821,7 +830,7 @@
     "slug": "elektrogitary",
     "description": "",
     "parent": 222,
-    "count": 665,
+    "count": 791,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/gitary-i-oborudovanie/elektrogitary/"
@@ -865,7 +874,7 @@
     "slug": "zvuk",
     "description": "",
     "parent": 0,
-    "count": 3532,
+    "count": 4153,
     "image": {
       "id": 40790,
       "src": "https://muzeconom.com.ua/wp-content/uploads/2026/09/zvuk.webp",
@@ -895,7 +904,7 @@
     "slug": "instalyatsijne-zvukove-obladnannya",
     "description": "",
     "parent": 239,
-    "count": 124,
+    "count": 159,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/instalyatsijne-zvukove-obladnannya/"
@@ -906,7 +915,7 @@
     "slug": "interyerni-pianino",
     "description": "",
     "parent": 224,
-    "count": 192,
+    "count": 169,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/klavishnye-instrumenty/tsifrovye-pianino/interyerni-pianino/"
@@ -928,7 +937,7 @@
     "slug": "kabinet-emulyator",
     "description": "",
     "parent": 412,
-    "count": 5,
+    "count": 6,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/gitary-i-oborudovanie/gitarni-efekty/kabinet-emulyator/"
@@ -950,7 +959,7 @@
     "slug": "kintsevi-pidsylyuvachi",
     "description": "",
     "parent": 247,
-    "count": 91,
+    "count": 100,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/pidsylyuvachi/kintsevi-pidsylyuvachi/"
@@ -961,7 +970,7 @@
     "slug": "klavishnye-instrumenty",
     "description": "",
     "parent": 0,
-    "count": 784,
+    "count": 714,
     "image": {
       "id": 40785,
       "src": "https://muzeconom.com.ua/wp-content/uploads/2026/09/klavishni.webp",
@@ -991,7 +1000,7 @@
     "slug": "klassicheskie-gitary",
     "description": "",
     "parent": 222,
-    "count": 306,
+    "count": 326,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/gitary-i-oborudovanie/klassicheskie-gitary/"
@@ -1002,7 +1011,7 @@
     "slug": "kombopidsylyuvachi",
     "description": "",
     "parent": 222,
-    "count": 89,
+    "count": 208,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/gitary-i-oborudovanie/kombopidsylyuvachi/"
@@ -1013,7 +1022,7 @@
     "slug": "komplekty-mikrofoniv-kejs-nabory",
     "description": "",
     "parent": 310,
-    "count": 10,
+    "count": 14,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/mikrofony/komplekty-mikrofoniv-kejs-nabory/"
@@ -1046,7 +1055,7 @@
     "slug": "kontrolery-ta-aksesuary-dlya-miksheriv",
     "description": "",
     "parent": 244,
-    "count": 16,
+    "count": 18,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/miksherni-pulty/kontrolery-ta-aksesuary-dlya-miksheriv/"
@@ -1134,7 +1143,7 @@
     "slug": "mikrofon-typu-shotgun-garmata",
     "description": "",
     "parent": 310,
-    "count": 5,
+    "count": 7,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/mikrofony/mikrofon-typu-shotgun-garmata/"
@@ -1145,7 +1154,7 @@
     "slug": "mikrofony",
     "description": "",
     "parent": 239,
-    "count": 1190,
+    "count": 1322,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/mikrofony/"
@@ -1156,7 +1165,7 @@
     "slug": "mikrofony-vokalni",
     "description": "",
     "parent": 310,
-    "count": 127,
+    "count": 145,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/mikrofony/mikrofony-vokalni/"
@@ -1178,7 +1187,7 @@
     "slug": "mikrofony-dlya-movlennya-ta-reportazhiv",
     "description": "",
     "parent": 310,
-    "count": 21,
+    "count": 24,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/mikrofony/mikrofony-dlya-movlennya-ta-reportazhiv/"
@@ -1189,7 +1198,7 @@
     "slug": "mikrofony-instrumentalni",
     "description": "",
     "parent": 248,
-    "count": 51,
+    "count": 63,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/mikrofony/studijni-mikrofony/mikrofony-instrumentalni/"
@@ -1233,7 +1242,7 @@
     "slug": "miksherni-pulty",
     "description": "",
     "parent": 239,
-    "count": 408,
+    "count": 413,
     "image": {
       "id": 8279,
       "src": "https://muzeconom.com.ua/wp-content/uploads/2025/09/88492448471913.webp",
@@ -1285,7 +1294,7 @@
     "slug": "muzychni-stijky",
     "description": "",
     "parent": 239,
-    "count": 16,
+    "count": 14,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/muzychni-stijky/"
@@ -1296,7 +1305,7 @@
     "slug": "multyefekt-protsesor",
     "description": "",
     "parent": 412,
-    "count": 89,
+    "count": 115,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/gitary-i-oborudovanie/gitarni-efekty/multyefekt-protsesor/"
@@ -1351,7 +1360,7 @@
     "slug": "nastinni-akustychni-systemy",
     "description": "",
     "parent": 254,
-    "count": 64,
+    "count": 89,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/akustychni-systemy/nastinni-akustychni-systemy/"
@@ -1373,7 +1382,7 @@
     "slug": "pasyvni",
     "description": "",
     "parent": 254,
-    "count": 44,
+    "count": 80,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/akustychni-systemy/pasyvni/"
@@ -1384,7 +1393,7 @@
     "slug": "pasyvni-sabvufery",
     "description": "",
     "parent": 407,
-    "count": 20,
+    "count": 31,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/sabvufery/pasyvni-sabvufery/"
@@ -1395,7 +1404,7 @@
     "slug": "pedali",
     "description": "",
     "parent": 350,
-    "count": 26,
+    "count": 21,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/klavishnye-instrumenty/aksesuary-klavishni/pedali/"
@@ -1406,7 +1415,7 @@
     "slug": "pedali-efektiv",
     "description": "",
     "parent": 222,
-    "count": 105,
+    "count": 143,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/gitary-i-oborudovanie/pedali-efektiv/"
@@ -1428,7 +1437,7 @@
     "slug": "pidsylyuvachi",
     "description": "",
     "parent": 239,
-    "count": 233,
+    "count": 294,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/pidsylyuvachi/"
@@ -1439,7 +1448,7 @@
     "slug": "pidsylyuvachi-dlya-bas-gitary",
     "description": "",
     "parent": 247,
-    "count": 21,
+    "count": 30,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/pidsylyuvachi/pidsylyuvachi-dlya-bas-gitary/"
@@ -1450,7 +1459,7 @@
     "slug": "pidsylyuvachi-dlya-elektrogitary",
     "description": "",
     "parent": 247,
-    "count": 61,
+    "count": 104,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/pidsylyuvachi/pidsylyuvachi-dlya-elektrogitary/"
@@ -1505,7 +1514,7 @@
     "slug": "profesijni",
     "description": "",
     "parent": 230,
-    "count": 158,
+    "count": 155,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/klavishnye-instrumenty/sintezatory/profesijni/"
@@ -1538,7 +1547,7 @@
     "slug": "reverberator",
     "description": "",
     "parent": 412,
-    "count": 9,
+    "count": 15,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/gitary-i-oborudovanie/gitarni-efekty/reverberator/"
@@ -1604,7 +1613,7 @@
     "slug": "rozvazhalni",
     "description": "",
     "parent": 230,
-    "count": 33,
+    "count": 29,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/klavishnye-instrumenty/sintezatory/rozvazhalni/"
@@ -1615,7 +1624,7 @@
     "slug": "ruporni-akustychni-systemy",
     "description": "",
     "parent": 254,
-    "count": 2,
+    "count": 6,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/akustychni-systemy/ruporni-akustychni-systemy/"
@@ -1626,7 +1635,7 @@
     "slug": "sabvufery",
     "description": "",
     "parent": 239,
-    "count": 49,
+    "count": 82,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/sabvufery/"
@@ -1700,7 +1709,7 @@
     "slug": "sintezatory",
     "description": "",
     "parent": 223,
-    "count": 201,
+    "count": 194,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/klavishnye-instrumenty/sintezatory/"
@@ -1917,7 +1926,7 @@
     "slug": "stelovi-akustychni-systemy",
     "description": "",
     "parent": 254,
-    "count": 29,
+    "count": 43,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/akustychni-systemy/stelovi-akustychni-systemy/"
@@ -1939,7 +1948,7 @@
     "slug": "stijky-dlya-klavishnyh-instrumentiv",
     "description": "",
     "parent": 350,
-    "count": 52,
+    "count": 41,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/klavishnye-instrumenty/aksesuary-klavishni/stijky-dlya-klavishnyh-instrumentiv/"
@@ -2005,7 +2014,7 @@
     "slug": "studijni-mikrofony",
     "description": "",
     "parent": 310,
-    "count": 126,
+    "count": 164,
     "image": {
       "id": 8529,
       "src": "https://muzeconom.com.ua/wp-content/uploads/2025/09/20231031161426-920x920-2.webp",
@@ -2068,7 +2077,7 @@
     "slug": "stsenichni-pianino",
     "description": "",
     "parent": 224,
-    "count": 103,
+    "count": 88,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/klavishnye-instrumenty/tsifrovye-pianino/stsenichni-pianino/"
@@ -2164,7 +2173,7 @@
     "slug": "ukulele",
     "description": "",
     "parent": 222,
-    "count": 102,
+    "count": 128,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/gitary-i-oborudovanie/ukulele/"
@@ -2197,7 +2206,7 @@
     "slug": "horus",
     "description": "",
     "parent": 412,
-    "count": 10,
+    "count": 27,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/gitary-i-oborudovanie/gitarni-efekty/horus/"
@@ -2208,7 +2217,7 @@
     "slug": "tsifrovye-pianino",
     "description": "",
     "parent": 223,
-    "count": 306,
+    "count": 268,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/klavishnye-instrumenty/tsifrovye-pianino/"
@@ -2263,7 +2272,7 @@
     "slug": "chohly-ta-kejsy-dlya-zvukovogo-obladnannya",
     "description": "",
     "parent": 239,
-    "count": 93,
+    "count": 97,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/zvuk/chohly-ta-kejsy-dlya-zvukovogo-obladnannya/"
@@ -2274,7 +2283,7 @@
     "slug": "chohly-ta-kejsy-dlya-klavishnyh-instrumentiv",
     "description": "",
     "parent": 350,
-    "count": 37,
+    "count": 31,
     "image": null,
     "review_count": 0,
     "permalink": "https://muzeconom.com.ua/product-category/klavishnye-instrumenty/aksesuary-klavishni/chohly-ta-kejsy-dlya-klavishnyh-instrumentiv/"

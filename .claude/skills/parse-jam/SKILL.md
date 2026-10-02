@@ -17,5 +17,5 @@ After opening each product page you should find:
 
 
  After you collect all data you should go to the 'woo-product' skill
-
+c
  Don't ask about pagination, don't use it and parse the only page I will send in skill argument
